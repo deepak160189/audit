@@ -1,0 +1,4601 @@
+[
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/custom_master_comp_test1/custom_master_comp_test1.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/accordion/styles/_aashirvaad.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/accordion/styles/_yippee-accordion.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/accordion/styles/accordion.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/_aashirvaad-banner.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/_banner.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/_dark_fantasy-banner.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/_yippee-banner.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/styles/_better-world.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/betterworld-tab/styles/_betterworld-tab.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-details/styles/_blog-details.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-discussion-listing/styles/_blog-discussion-listing.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/breadcrumb/scss/breadcrumb.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-quiz/styles/_blog-quiz.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/button/styles/_button.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/byline/scss/byline.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/_card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/_dark_fantasy-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/_yippee-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/_cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/_dark_fantasy-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/_yippee-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/styles/_aashirvaad-carousel.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/styles/_base.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/styles/_carousel.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/styles/_hero-banner.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/styles/_slick-theme.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/styles/_slick.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/styles/_yippee-carousel.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contact-us/styles/_aashirvaad-contact-us.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contact-us/styles/_contact-us.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contact-us/styles/_dark_fantasy-contact-us.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contact-us/styles/_yippee-contact-us.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/container/styles/_container.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/container/styles/_yippee-container.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contentfragment/scss/contentfragment.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contentfragmentlist/scss/contentfragmentlist.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cookie-personality/styles/_cookie-personality-answers.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cookie-personality/styles/_cookie-personality.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/diy-listing/styles/_diy-listing.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/download/scss/download.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/error/styles/_error.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/experiencefragment/scss/experiencefragment.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/explore-all-recipes/styles/_explore-all-recipes.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/explore-all-recipes/styles/_yippee-explore-all-recipes.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer/styles/_dark_fantasy-footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer/styles/_footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer/styles/_yippee-footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer-new/styles/_footer-new.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/gift-listing/styles/_gift-listing.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/header/styles/_aashirvaad-header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/header/styles/_header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/header/styles/_yippee-header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/helloworld/scss/helloworld.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/history/styles/_aashirvaad-history.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/history/styles/_dark_fantasy-history.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/history/styles/_history.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/history/styles/_yippee-history.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/image-list/scss/image-list.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/image/styles/_dark_fantasy-image.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/image/styles/_image.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/ingredients/styles/_ingredients.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/input/styles/_input.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/layout-container/scss/layout-container.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/languagenavigation/scss/languagenavigation.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/list/scss/list.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/navigation/scss/navigation.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-foot-print/styles/_our-foot-print.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/styles/_our-values.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/popular-products/styles/_popular-products.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category/styles/_product-category.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category-listing/styles/_product-category-listing.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-cookie/styles/_product-cookie.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-description/styles/_product-description.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-listing/styles/_product-listing.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-detail/styles/_product-detail.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-tabs/styles/_dark_fantasy-product-tabs.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-tabs/styles/_product-tabs.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-tabs/styles/_yippee-explore-tabs.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-tabs/styles/_yippee-product-tabs.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-swiper/styles/_product-swiper.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/react-cmp/styles/_react-cmp.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/styles/_dark_fantasy-recipe-detail.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/styles/_recipe-detail.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/styles/_yippee-default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-direction/styles/_aashirvaad-recipe-direction.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-direction/styles/_dark_fantasy-recipe-direction.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-direction/styles/_recipe-direction.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-direction/styles/_yippee-recipe-direction.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-group/styles/_recipe-group.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-group/styles/_yippee-recipe-group.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-quiz/styles/_recipe-quiz.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/related-products/styles/_related-products.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/search/styles/_aashirvaad-search.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/search/styles/_search.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/search/styles/_yippee-search.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/separator/styles/_separator.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/share/styles/_aashirvaad-share.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/share/styles/_share.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/share/styles/_yippee-share.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/social/styles/_social.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/social/styles/_yippe-social.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab/styles/_tab.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tabs/scss/tabs.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab-group/styles/_tab-group.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab-group/styles/_yippee-tab-group.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/_teaser.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/styles/_aashirvaad-teaser-contest.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/styles/_aashirvaad-teaser-own-stage.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/styles/_dark_fantasy-teaser-contest.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/styles/_teaser-contest.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/styles/_yippee-teaser-contest.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/title/scss/title.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/test/styles/_test.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tv-commercials/styles/_tv-commercials.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/text/scss/text.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/_aashirvaad-video.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/_video.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/_yippee-video.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/styles/_yippee-banner.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-ingredients/styles/_yippee-ingredients.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/styles/_yippee-journey.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-reels/styles/_yippee-reels.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/accordion/styles/_accordion.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/banner/styles/_banner.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/available-in-stores/styles/available-in-stores.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/breadcrumb/styles/_breadcrumb.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/button/styles/_button.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/_bingo-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/_bnatural-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/_cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/bingoadda/styles/_bingoadda.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/contact-us/styles/_contact-us.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/container/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/carousel/styles/_base.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/carousel/styles/_carousel.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/footer/styles/_footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/dropdown/styles/_dropdown.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/header/styles/_header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/know-more/styles/know-more.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/load-splash/styles/_load-splash.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/news-list/styles/news-list.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/our-story/styles/_our-story.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/product-ingredients/styles/_product-Ingredients.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/product-list/styles/_product-list.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/product-packshot-info/styles/product-packshot-info.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/recipe-list/styles/recipe-list.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/scroll-arrow/styles/scroll-arrow.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/search/styles/_search-bg-color.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/search/styles/_search-bg-image.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/sitemap/styles/_sitemap.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/social-share/styles/social-share.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/sticky/styles/sticky.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/tabs/styles/_tabs.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/_teaser.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/text/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/video/styles/_video.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/styles/_color.scss",
+    "errorCount": 3,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 1,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 16,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 35,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/styles/_common.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/styles/_container.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/styles/_scrollbar.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/styles/_typography.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/styles/main.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/styles/_color.scss",
+    "errorCount": 3,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 1,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 16,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 33,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/styles/_common.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/styles/_typography.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/styles/main.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/styles/_color.scss",
+    "errorCount": 3,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 1,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 17,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 33,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/styles/_common.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/styles/_typography.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/styles/main.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/styles/_color.scss",
+    "errorCount": 3,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 1,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 20,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 40,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/styles/_common.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/styles/_scrollbar.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/styles/_typography.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/styles/main.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/_font-face.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/main.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/accordion/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/accordion/styles/root/_variant.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/styles/_color.scss",
+    "errorCount": 3,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 1,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 27,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 54,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/styles/_common.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/styles/_typography.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/styles/main.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/styles/root/_better-world-collaborations.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/styles/root/_better-world-teaser-content.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_aashirvaad-author.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_aashirvaad-logo.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_aashirvaad-multi-title.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_aashirvaad-product-benefits.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_aashirvaad-title-button.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_aashirvaad-title-desc-bottom.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_cta-center-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_cta-left-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_jump-link.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_product-listing.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_title-bottom.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_title-sub-title-center.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/styles/root/_title-sub-title-left.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/breadcrumb/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/breadcrumb/scss/styles/_fixed.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-quiz/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-quiz/styles/root/_quiz-transitions.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/button/styles/root/_anchor.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/button/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/button/styles/root/_primary-anchor.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/button/styles/root/_primary.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/button/styles/root/_secondary.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/byline/scss/styles/_default.scss",
+    "errorCount": 1,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 20,
+        "column": 5,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-bundle-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-contest-detail-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-discussion-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-fast-food-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-foot-print-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-history-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-milestone-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-prizes-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-product-info-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-recipe-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-social-hub-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-social-post-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_aashirvaad-tips-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_active-contest-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_community-forum-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_history-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_recipe-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_recipe-wall-of-fame-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_testimonial-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_tips-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_tvc-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_yippee-history-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_yippee-media-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_yippee-product-details-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/styles/root/_yippee-recipe-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/_aashirvaad-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/_tvc-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contentfragment/scss/styles/_contributor.scss",
+    "errorCount": 1,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 66,
+        "column": 7,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contentfragment/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contentfragment/scss/styles/_elements.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/diy-listing/styles/root/_better-world-diy-listing.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/diy-listing/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cookie-personality/styles/root/_cookie-personality-content.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cookie-personality/styles/root/_cookie-personality-default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cookie-personality/styles/root/_default__cookie-answers.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/download/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/error/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/error/styles/root/_productVarient.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/experiencefragment/scss/styles/_buttonlist.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/experiencefragment/scss/styles/_contributor.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/experiencefragment/scss/styles/_footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/experiencefragment/scss/styles/_header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/explore-all-recipes/styles/root/_aashirvaad-default-content.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/explore-all-recipes/styles/root/_dark_fantasy-default-content.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/explore-all-recipes/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer/styles/root/_aashirvaad-footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/button/scss/button.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/container/scss/container.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/options/scss/options.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/sign-in-form/scss/sign-in-form.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/sign-in-buttons/scss/sign-in-buttons.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/text/scss/text.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/gift-listing/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/gift-listing/styles/root/_gift-content.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/header/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/layout-container/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/layout-container/scss/styles/_fixed-width.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/layout-container/scss/styles/_footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/layout-container/scss/styles/_header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/layout-container/scss/styles/_modal.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/layout-container/scss/styles/_utility.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/image-list/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/languagenavigation/scss/styles/_dark.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/languagenavigation/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/languagenavigation/scss/styles/_header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/list/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/list/scss/styles/_upnext.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/navigation/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/navigation/scss/styles/_nav-footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/navigation/scss/styles/_nav-header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/navigation/scss/styles/_nav-mobile.scss",
+    "errorCount": 8,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 124,
+        "column": 5,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 66,
+        "column": 1,
+        "severity": "error",
+        "rule": "selector-id-pattern",
+        "message": "Expected id selector \"#mobileNav\" to be kebab-case"
+      },
+      {
+        "line": 66,
+        "column": 12,
+        "severity": "error",
+        "rule": "selector-id-pattern",
+        "message": "Expected id selector \"\n#toggleNav\" to be kebab-case"
+      },
+      {
+        "line": 87,
+        "column": 5,
+        "severity": "error",
+        "rule": "selector-id-pattern",
+        "message": "Expected id selector \"#toggleNav\" to be kebab-case"
+      },
+      {
+        "line": 108,
+        "column": 5,
+        "severity": "error",
+        "rule": "selector-id-pattern",
+        "message": "Expected id selector \"#toggleNav\" to be kebab-case"
+      },
+      {
+        "line": 126,
+        "column": 5,
+        "severity": "error",
+        "rule": "selector-id-pattern",
+        "message": "Expected id selector \"#mobileNav\" to be kebab-case"
+      },
+      {
+        "line": 161,
+        "column": 9,
+        "severity": "error",
+        "rule": "selector-id-pattern",
+        "message": "Expected id selector \"#toggleNav\" to be kebab-case"
+      },
+      {
+        "line": 168,
+        "column": 9,
+        "severity": "error",
+        "rule": "selector-id-pattern",
+        "message": "Expected id selector \"#mobileNav\" to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-foot-print/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/styles/root/_better-world.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/styles/root/_certifications.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/styles/root/_yippee-values.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category/styles/root/_anchor.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category/styles/root/_cta.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category-listing/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-cookie/styles/root/_cookie-content.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-cookie/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-detail/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/styles/root/_aashirvaad-default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-description/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-quiz/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-quiz/styles/root/_quiz-transitions.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/separator/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/social/styles/root/_aashirvaad-default-social.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/social/styles/root/_dark_fantasy-default-social.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/social/styles/root/_default-social.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/social/styles/root/_variant.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab/styles/root/_primary.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab/styles/root/_secondary.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tabs/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab-group/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_aashirvaad-carousel-teaser.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_aashirvaad-default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_aashirvaad-first-half-center-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_aashirvaad-first-half-left-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_aashirvaad-second-half-center-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_aashirvaad-second-half-left-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_aashirvaad-teaser-cta.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_first-half-left-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/styles/root/_yippee-teaser.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tv-commercials/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/title/scss/styles/_colors.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/title/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/title/scss/styles/_label.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/title/scss/styles/_styles.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/text/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/text/scss/styles/_quote.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/text/scss/styles/_size.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_aashirvaad-banner-author.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_aashirvaad-banner-with-title-button.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_aashirvaad-foot-print-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_aashirvaad-recipe-detail-video.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_aashrivaad-banner-with-title-desc.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_active-contest-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_banner-no-info.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_banner-with-cta.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_banner-with-title-bottom.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_community-forum-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_popup-video.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_product-listing.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_recipe-wall-of-fame-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_teaser-contest.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_teaser-first-half-left-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_tips.card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/styles/root/_tvc-card.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/styles/root/_content-second-half-left-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/styles/root/_content-with-cta.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/styles/root/_content-without-cta.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/styles/root/_no-content.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/accordion/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/banner/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/styles/root/_better-world.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/styles/root/_image-with-title.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/styles/root/_with-arrow.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/styles/root/_without-arrow.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/breadcrumb/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/button/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/button/styles/root/_primary-anchor.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/button/styles/root/_primary-readmore.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/button/styles/root/_primary.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/button/styles/root/_secondary-anchor.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/button/styles/root/_secondary.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/container/styles/root/_container-max-width.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/container/styles/root/_container-space.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/root/_blog-details-video.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/root/_blog-details.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/root/_image-hover-text.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/root/_image-hover.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/root/_join-conversation.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/styles/root/_recipe-details.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/footer/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/dropdown/styles/root/_above-dropdown-title-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/dropdown/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/dropdown/styles/root/_discover-dropdown.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/dropdown/styles/root/_right-dropdown-title-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/header/styles/root/_header-bg-color.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/header/styles/root/_header-bg-image.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/load-splash/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/news-list/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/news-list/styles/root/_news-filter.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/recipe-list/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/scroll-arrow/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/sitemap/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/social-share/styles/root/_followus.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/social-share/styles/root/_shareon.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/tabs/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/sticky/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_adda-center-image.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_bingo-left-image-with-desc-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_error-page.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_full-bg-text-center-image-bottom-button.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_left-image-aligned-bulletin.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_left-image-aligned-right-icons.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_left-image-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_left-image-full-bg-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_left-text-bg-img-no-background.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_left-text-bg-img.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_read-more-option.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_right-image-aligned-bulletin.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_right-image-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_right-image-full-bg-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_small-image-left-aligned.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/styles/root/_testimonial-page.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/text/styles/root/_accordion-text.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/text/styles/root/_custom-bulletin-round.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/text/styles/root/_custom-bulletin.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/text/styles/root/_custom-primary-font.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/text/styles/root/_custom-space-title.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/video/styles/root/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/resources/icon-font/style.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/resources/icon-font/variables.scss",
+    "errorCount": 110,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 4,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 81,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 82,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 83,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 84,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 85,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 86,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 88,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 89,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 90,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 91,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 92,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 93,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 94,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 95,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 96,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 97,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 98,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 99,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 100,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 101,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 102,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 103,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 104,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 105,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 106,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 107,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 108,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 109,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 110,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 111,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 112,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 113,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 114,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 115,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 116,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 117,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 118,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 119,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 120,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 121,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 122,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 123,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 124,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 125,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 126,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 127,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 128,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 129,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 130,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 131,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 132,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 133,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 134,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 135,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 136,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 137,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 138,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 139,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 140,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 141,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 142,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 143,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 144,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 145,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 146,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 147,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 148,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 149,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 150,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 151,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 152,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 153,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 154,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 155,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 156,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 157,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 158,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 159,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 160,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 161,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 162,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 163,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 164,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 165,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 166,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 167,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 168,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 169,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 170,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 171,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 172,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 173,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 174,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 175,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 176,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 177,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 178,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 179,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 180,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 181,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 182,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 183,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 184,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 185,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 186,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 187,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 188,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 189,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 190,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/styles/root/_variables.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/resources/icon-font/style.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/resources/icon-font/variables.scss",
+    "errorCount": 19,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 4,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 5,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 6,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 7,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 8,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 9,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 10,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 11,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 12,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 13,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 14,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 15,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 16,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 17,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 18,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 19,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 20,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 21,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 22,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/styles/root/_variables.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/resources/icon-font/style.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/resources/icon-font/variables.scss",
+    "errorCount": 25,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 4,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 5,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 6,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 7,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 8,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 9,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 10,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 11,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 12,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 13,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 14,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 15,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 16,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 17,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 18,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 19,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 20,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 21,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 22,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 23,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 24,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 25,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 26,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 27,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 28,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/styles/root/_variables.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/resources/icon-font/style.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/resources/icon-font/variables.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/styles/root/_variables.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/functions/_functions.scss",
+    "errorCount": 3,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 8,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/at-function-pattern",
+        "message": "Expected function name to be kebab-case"
+      },
+      {
+        "line": 14,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/at-function-pattern",
+        "message": "Expected function name to be kebab-case"
+      },
+      {
+        "line": 9,
+        "column": 3,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/layouts/container_main.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/layouts/experiencefragment_footer.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/layouts/experiencefragment_header.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/abstracts/_color.scss",
+    "errorCount": 3,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 1,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 20,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 40,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/abstracts/_font-weight.scss",
+    "errorCount": 1,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 1,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/mixins/_mixins.scss",
+    "errorCount": 1,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 69,
+        "column": 3,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/root/_base.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/styles/root/_variables.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/farmlite/styles/root/_variables.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/resources/icon-font/style.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/resources/icon-font/variables.scss",
+    "errorCount": 78,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 6,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 7,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 8,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 9,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 10,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 11,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 12,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 13,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 14,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 15,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 16,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 17,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 18,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 19,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 88,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 89,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 90,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 91,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 92,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 93,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 94,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 95,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 96,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 97,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 98,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 99,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 100,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 101,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 102,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 103,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 104,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 108,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 109,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 110,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 111,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 113,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 117,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 118,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 119,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 120,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 121,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 122,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 123,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 124,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 125,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 126,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 127,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 128,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 129,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 130,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 131,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 132,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 133,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 134,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 135,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 136,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 137,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 138,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 139,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 140,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 141,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 142,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 143,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 144,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 145,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 146,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 147,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 148,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 149,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 150,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 151,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 152,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 153,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 154,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 155,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 156,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 157,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      },
+      {
+        "line": 158,
+        "column": 1,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/styles/root/_variables.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/yippee/_testimonial-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/yippee/_yippee-default-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/yippee/_yippee-diy-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/yippee/_yippee-product-details-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/yippee/_yippee-quality-control-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/yippee/_yippee-recipe-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/styles/root/yippee/_yippee-tvc-cards.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/button/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/sign-in-form/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/text/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/form/sign-in-buttons/scss/styles/_default.scss",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/styles/root/mixins/_mixins.scss",
+    "errorCount": 1,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 47,
+        "column": 3,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/styles/root/mixins/_mixins.scss",
+    "errorCount": 1,
+    "warningCount": 0,
+    "messages": [
+      {
+        "line": 47,
+        "column": 3,
+        "severity": "error",
+        "rule": "scss/dollar-variable-pattern",
+        "message": "Expected variable to be kebab-case"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5509 @@
+[
+  {
+    "filePath": "./src/main/webpack/global/tokens/config.token.js",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-var-requires",
+        "severity": 1,
+        "line": 1,
+        "column": 32,
+        "message": "Require statement not part of import statement."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-var-requires",
+        "severity": 1,
+        "line": 2,
+        "column": 25,
+        "message": "Require statement not part of import statement."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 4,
+        "column": 1,
+        "message": "This line has a length of 135. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/framework/initializer.js",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 34,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 90,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 103,
+        "column": 15,
+        "message": "'error' is defined but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/framework/services.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/main.ts",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/main.ts",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/main.ts",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 8,
+        "column": 12,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/main.ts",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/main.ts",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/main.ts",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/available-in-stores/scripts/_available-in-stores.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/breadcrumb/scripts/_breadcrumb.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 22,
+        "column": 2,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/button/scripts/Button.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 7,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/cards/scripts/_cards.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 11,
+        "column": 9,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/carousel/scripts/_carousel.js",
+    "errorCount": 0,
+    "warningCount": 5,
+    "messages": [
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 159,
+        "column": 45,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 159,
+        "column": 51,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 160,
+        "column": 53,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 162,
+        "column": 11,
+        "message": "'isRightSwipe' is assigned a value but never used."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 171,
+        "column": 2,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/contact-us/scripts/ContactUs.jsx",
+    "errorCount": 0,
+    "warningCount": 5,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 36,
+        "column": 10,
+        "message": "'values' is assigned a value but never used."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 61,
+        "column": 38,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 101,
+        "column": 28,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 169,
+        "column": 49,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 281,
+        "column": 1,
+        "message": "This line has a length of 159. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/contact-us/scripts/_contact-us.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 4,
+        "column": 10,
+        "message": "'viewPort' is defined but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/dropdown/scripts/_dropdown.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 27,
+        "column": 47,
+        "message": "'e' is defined but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/footer/scripts/_footer.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/header/scripts/_header.js",
+    "errorCount": 0,
+    "warningCount": 7,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 21,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 24,
+        "column": 24,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 103,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 107,
+        "column": 1,
+        "message": "This line has a length of 136. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 127,
+        "column": 55,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 133,
+        "column": 1,
+        "message": "This line has a length of 159. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 159,
+        "column": 35,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/load-splash/scripts/_load-splash.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 53,
+        "column": 3,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/news-list/scripts/HeaderFilter.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 47,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 131,
+        "column": 1,
+        "message": "This line has a length of 125. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/news-list/scripts/News.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 11,
+        "column": 10,
+        "message": "'cardCount' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 55,
+        "column": 1,
+        "message": "This line has a length of 158. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 143,
+        "column": 4,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/news-list/scripts/_news-list.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 10,
+        "column": 2,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/our-story/scripts/_our-story.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/product-list/scripts/_product-list.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 11,
+        "column": 9,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/recipe-list/scripts/Recipe.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/recipe-list/scripts/_recipe-list.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/scroll-arrow/scripts/_scroll-arrow.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/teaser/scripts/_teaser.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 105,
+        "column": 5,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/video/scripts/DamVideo.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 8,
+        "column": 3,
+        "message": "'enableLoop' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 9,
+        "column": 3,
+        "message": "'muted' is defined but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/video/scripts/Video.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/video/scripts/YoutubeVideo.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 84,
+        "column": 4,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components-new/video/scripts/_video.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/banner/scripts/_banner.js",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 15,
+        "column": 76,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 18,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 23,
+        "column": 1,
+        "message": "This line has a length of 366. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 29,
+        "column": 1,
+        "message": "This line has a length of 366. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/scripts/BetterWorld.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 25,
+        "column": 14,
+        "message": "Expected { after 'if' condition."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/scripts/BetterWorldTeaserContent.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 46,
+        "column": 1,
+        "message": "This line has a length of 145. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 53,
+        "column": 1,
+        "message": "This line has a length of 171. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/scripts/CollaborationCards.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 51,
+        "column": 1,
+        "message": "This line has a length of 168. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/scripts/CollaborationsTabContent.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/scripts/DiyCraftsTabContent.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 17,
+        "message": "'useEffect' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 28,
+        "message": "'useState' is defined but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/scripts/ReadMore.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 20,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/scripts/SchoolsTabContent.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/better-world/scripts/_better-world.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/betterworld-tab/scripts/_betterworld-tab.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-details/scripts/BlogDetails.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 72,
+        "column": 1,
+        "message": "This line has a length of 148. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-details/scripts/_blog-details.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-discussion-listing/scripts/BlogDiscussionListing.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 8,
+        "column": 1,
+        "message": "This line has a length of 124. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 223,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 230,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-discussion-listing/scripts/HeaderFilter.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 71,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 76,
+        "column": 4,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-discussion-listing/scripts/_blog-discussion-listing.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-quiz/scripts/BlogQuiz.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 6,
+        "column": 1,
+        "message": "This line has a length of 126. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 43,
+        "column": 39,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 112,
+        "column": 1,
+        "message": "This line has a length of 147. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-quiz/scripts/BlogQuizQuestionAnswer.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-quiz/scripts/CarouselCardGroup.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/blog-quiz/scripts/_blog-quiz.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/button/scripts/Button.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 7,
+        "column": 1,
+        "message": "This line has a length of 153. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/button/scripts/_button.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadBundleCard.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 41,
+        "column": 1,
+        "message": "This line has a length of 126. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadContestDetailCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadDiscussionCard.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 40,
+        "column": 1,
+        "message": "This line has a length of 148. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadFastfoodCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadMilestoneCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadPrizesCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadProductInfoCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadRecipeCard.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 17,
+        "column": 5,
+        "message": "'videoUrl' is assigned a value but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadSocialHubCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadSocialPostCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/AashirvaadTipsCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/ActiveContestCard.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 37,
+        "column": 1,
+        "message": "This line has a length of 150. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 64,
+        "column": 1,
+        "message": "This line has a length of 179. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/Card.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 50,
+        "column": 1,
+        "message": "This line has a length of 140. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/CommunityForumCard.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 15,
+        "column": 5,
+        "message": "'videoUrl' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 38,
+        "column": 1,
+        "message": "This line has a length of 149. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 72,
+        "column": 1,
+        "message": "This line has a length of 157. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/FootPrintCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/HistoryCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/RecipeCard.jsx",
+    "errorCount": 0,
+    "warningCount": 6,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 5,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 5,
+        "column": 113,
+        "message": "'videoUrl' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 24,
+        "column": 1,
+        "message": "This line has a length of 147. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 26,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 77,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 95,
+        "column": 1,
+        "message": "This line has a length of 149. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/RecipeWallOfFameCard.jsx",
+    "errorCount": 0,
+    "warningCount": 7,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 17,
+        "column": 5,
+        "message": "'videoUrl' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 47,
+        "column": 1,
+        "message": "This line has a length of 147. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 49,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 102,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 120,
+        "column": 1,
+        "message": "This line has a length of 150. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 138,
+        "column": 1,
+        "message": "This line has a length of 135. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 151,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/TestimonialCard.jsx",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "no-bitwise",
+        "severity": 1,
+        "line": 8,
+        "column": 54,
+        "message": "Unexpected use of '~'."
+      },
+      {
+        "ruleId": "no-bitwise",
+        "severity": 1,
+        "line": 8,
+        "column": 55,
+        "message": "Unexpected use of '~'."
+      },
+      {
+        "ruleId": "no-bitwise",
+        "severity": 1,
+        "line": 8,
+        "column": 99,
+        "message": "Unexpected use of '~'."
+      },
+      {
+        "ruleId": "no-bitwise",
+        "severity": 1,
+        "line": 8,
+        "column": 100,
+        "message": "Unexpected use of '~'."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/TipsCard.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 11,
+        "column": 5,
+        "message": "'videoUrl' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 34,
+        "column": 1,
+        "message": "This line has a length of 150. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/TvcCard.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 11,
+        "column": 5,
+        "message": "'videoUrl' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 41,
+        "column": 1,
+        "message": "This line has a length of 149. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 60,
+        "column": 1,
+        "message": "This line has a length of 153. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/YippeeProductDetailsCard.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 26,
+        "column": 1,
+        "message": "This line has a length of 156. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 32,
+        "column": 35,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 62,
+        "column": 1,
+        "message": "This line has a length of 169. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/YippeeRecipeCard.jsx",
+    "errorCount": 0,
+    "warningCount": 9,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 55,
+        "message": "'useCallback' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 35,
+        "column": 1,
+        "message": "This line has a length of 156. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 61,
+        "column": 1,
+        "message": "This line has a length of 147. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 63,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 70,
+        "column": 35,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 119,
+        "column": 1,
+        "message": "This line has a length of 157. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 122,
+        "column": 1,
+        "message": "This line has a length of 156. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 139,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 162,
+        "column": 1,
+        "message": "This line has a length of 172. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/card/scripts/_card.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 27,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/scripts/Cards.jsx",
+    "errorCount": 0,
+    "warningCount": 7,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 36,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 40,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 41,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 94,
+        "column": 22,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 109,
+        "column": 1,
+        "message": "This line has a length of 134. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 113,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 125,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/scripts/TvcCards.jsx",
+    "errorCount": 0,
+    "warningCount": 5,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 10,
+        "column": 5,
+        "message": "'ctaLink' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 40,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 69,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 72,
+        "column": 1,
+        "message": "This line has a length of 134. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 77,
+        "column": 25,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cards/scripts/_cards.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/scripts/Carousel.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 3,
+        "column": 1,
+        "message": "This line has a length of 166. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/carousel/scripts/_carousel.js",
+    "errorCount": 0,
+    "warningCount": 21,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 9,
+        "column": 1,
+        "message": "This line has a length of 151. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 15,
+        "column": 1,
+        "message": "This line has a length of 154. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 19,
+        "column": 1,
+        "message": "This line has a length of 142. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 38,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 41,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 87,
+        "column": 38,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 87,
+        "column": 45,
+        "message": "'slick' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 91,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 129,
+        "column": 1,
+        "message": "This line has a length of 146. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 147,
+        "column": 29,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 148,
+        "column": 50,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 150,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 158,
+        "column": 36,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 158,
+        "column": 43,
+        "message": "'slick' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 158,
+        "column": 50,
+        "message": "'currentSlide' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 158,
+        "column": 64,
+        "message": "'nextSlide' is defined but never used."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 182,
+        "column": 47,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 186,
+        "column": 9,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 194,
+        "column": 20,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 222,
+        "column": 37,
+        "message": "'index' is defined but never used."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 272,
+        "column": 37,
+        "message": "Expected { after 'if' condition."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contact-us/scripts/ContactUs.jsx",
+    "errorCount": 0,
+    "warningCount": 20,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 31,
+        "column": 5,
+        "message": "'THANK_YOU_MSG' is assigned a value but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 35,
+        "column": 10,
+        "message": "'values' is assigned a value but never used."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 59,
+        "column": 38,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 134,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 135,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 139,
+        "column": 49,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 144,
+        "column": 1,
+        "message": "This line has a length of 146. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 147,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 160,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 169,
+        "column": 1,
+        "message": "This line has a length of 145. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 181,
+        "column": 1,
+        "message": "This line has a length of 142. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 185,
+        "column": 1,
+        "message": "This line has a length of 159. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 195,
+        "column": 1,
+        "message": "This line has a length of 155. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 198,
+        "column": 1,
+        "message": "This line has a length of 134. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 207,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 210,
+        "column": 1,
+        "message": "This line has a length of 140. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 219,
+        "column": 1,
+        "message": "This line has a length of 137. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 222,
+        "column": 1,
+        "message": "This line has a length of 145. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 232,
+        "column": 1,
+        "message": "This line has a length of 140. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 239,
+        "column": 1,
+        "message": "This line has a length of 137. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/contact-us/scripts/_contact-us.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/container/scripts/_container.js",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 19,
+        "column": 5,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 20,
+        "column": 2,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cookie-personality/scripts/CookiePersonality.jsx",
+    "errorCount": 0,
+    "warningCount": 30,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 13,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 42,
+        "column": 20,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 43,
+        "column": 9,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 49,
+        "column": 50,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 53,
+        "column": 42,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 57,
+        "column": 91,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 58,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 67,
+        "column": 43,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 68,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 79,
+        "column": 44,
+        "message": "'k' is defined but never used."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 86,
+        "column": 45,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 93,
+        "column": 39,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 97,
+        "column": 44,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 103,
+        "column": 61,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 104,
+        "column": 48,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 107,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 114,
+        "column": 40,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 115,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 123,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 134,
+        "column": 1,
+        "message": "This line has a length of 223. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 141,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 142,
+        "column": 1,
+        "message": "This line has a length of 144. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 145,
+        "column": 6,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 146,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 160,
+        "column": 1,
+        "message": "This line has a length of 144. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 161,
+        "column": 6,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 162,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 182,
+        "column": 1,
+        "message": "This line has a length of 138. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 185,
+        "column": 1,
+        "message": "This line has a length of 139. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 192,
+        "column": 4,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cookie-personality/scripts/CookiePersonalityAnswer.jsx",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 17,
+        "message": "'useEffect' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 28,
+        "message": "'useState' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 6,
+        "column": 45,
+        "message": "'retryUrl' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 7,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/cookie-personality/scripts/_cookie-personality.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/diy-listing/scripts/DIYListing.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 38,
+        "message": "'useRef' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 107,
+        "column": 1,
+        "message": "This line has a length of 144. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 107,
+        "column": 81,
+        "message": "'e' is defined but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/diy-listing/scripts/_diy-listing.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/error/scripts/_error.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/explore-all-recipes/scripts/ExploreAllRecipes.jsx",
+    "errorCount": 0,
+    "warningCount": 7,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 36,
+        "column": 48,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 177,
+        "column": 36,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 261,
+        "column": 21,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 279,
+        "column": 24,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 280,
+        "column": 7,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 295,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 313,
+        "column": 1,
+        "message": "This line has a length of 144. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/explore-all-recipes/scripts/HeaderFilter.jsx",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 78,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 83,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 238,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 245,
+        "column": 1,
+        "message": "This line has a length of 149. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/explore-all-recipes/scripts/_explore-all-recipes.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer/scripts/_footer.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer-new/scripts/FooterNew.jsx",
+    "errorCount": 0,
+    "warningCount": 9,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 19,
+        "column": 45,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 20,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 43,
+        "column": 34,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 52,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 55,
+        "column": 6,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 56,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 62,
+        "column": 1,
+        "message": "This line has a length of 176. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 76,
+        "column": 1,
+        "message": "This line has a length of 174. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 79,
+        "column": 1,
+        "message": "This line has a length of 150. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/footer-new/scripts/_footer-new.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/header/scripts/_header.js",
+    "errorCount": 0,
+    "warningCount": 6,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 30,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 54,
+        "column": 1,
+        "message": "This line has a length of 136. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 95,
+        "column": 9,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 99,
+        "column": 55,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 108,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 116,
+        "column": 1,
+        "message": "This line has a length of 159. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/gift-listing/scripts/GiftListing.jsx",
+    "errorCount": 0,
+    "warningCount": 11,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 33,
+        "column": 31,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 59,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 69,
+        "column": 1,
+        "message": "This line has a length of 175. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 71,
+        "column": 1,
+        "message": "This line has a length of 162. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 76,
+        "column": 29,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 77,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 87,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 91,
+        "column": 17,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 92,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 112,
+        "column": 1,
+        "message": "This line has a length of 189. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 113,
+        "column": 1,
+        "message": "This line has a length of 128. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/gift-listing/scripts/_gift-listing.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/history/scripts/History.jsx",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 38,
+        "message": "'useLayoutEffect' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 89,
+        "column": 1,
+        "message": "This line has a length of 138. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 129,
+        "column": 1,
+        "message": "This line has a length of 188. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 145,
+        "column": 1,
+        "message": "This line has a length of 211. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/history/scripts/_history.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/ingredients/scripts/Ingredients.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/ingredients/scripts/_ingredients.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 13,
+        "column": 2,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-foot-print/scripts/CarouselCard.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-foot-print/scripts/OurFootPrint.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-foot-print/scripts/_our-foot-print.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/scripts/BetterWorld.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/scripts/Certifications.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/scripts/OurValues.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 22,
+        "column": 26,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 29,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/scripts/YippeeValues.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/our-values/scripts/_our-values.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/popular-products/scripts/PopularProducts.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 36,
+        "column": 32,
+        "message": "Expected { after 'if' condition."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/popular-products/scripts/SingleProduct.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 9,
+        "column": 1,
+        "message": "This line has a length of 148. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 54,
+        "column": 1,
+        "message": "This line has a length of 183. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/popular-products/scripts/_popular-products.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category/scripts/ProductCategory.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 5,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category/scripts/_product-category.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category-listing/scripts/ProductCategoryListing.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 92,
+        "column": 1,
+        "message": "This line has a length of 134. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 97,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-category-listing/scripts/_product-category-listing.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-cookie/scripts/ProductCookie.jsx",
+    "errorCount": 0,
+    "warningCount": 8,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 6,
+        "column": 60,
+        "message": "'autoPlayIsEnabled' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 6,
+        "column": 79,
+        "message": "'autoPlaySpeedInMs' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 36,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 39,
+        "column": 26,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 40,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 55,
+        "column": 61,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 57,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 66,
+        "column": 17,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-cookie/scripts/_product-cookie.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-detail/scripts/ProductDetail.jsx",
+    "errorCount": 0,
+    "warningCount": 10,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 63,
+        "column": 1,
+        "message": "This line has a length of 153. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 93,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 98,
+        "column": 1,
+        "message": "This line has a length of 159. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 108,
+        "column": 1,
+        "message": "This line has a length of 149. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 138,
+        "column": 1,
+        "message": "This line has a length of 145. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 142,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 149,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 162,
+        "column": 1,
+        "message": "This line has a length of 128. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 172,
+        "column": 1,
+        "message": "This line has a length of 138. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 212,
+        "column": 1,
+        "message": "This line has a length of 130. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-detail/scripts/_product-detail.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-description/scripts/_product-description.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 13,
+        "column": 4,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-listing/scripts/ProductListing.jsx",
+    "errorCount": 0,
+    "warningCount": 5,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 9,
+        "column": 10,
+        "message": "'tabsContent' is assigned a value but never used."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 30,
+        "column": 87,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 77,
+        "column": 1,
+        "message": "This line has a length of 169. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 79,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 97,
+        "column": 1,
+        "message": "This line has a length of 189. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-listing/scripts/_product-listing.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-tabs/scripts/DefaultProductTabs.jsx",
+    "errorCount": 0,
+    "warningCount": 5,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 17,
+        "message": "'useState' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 27,
+        "message": "'useEffect' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 6,
+        "column": 1,
+        "message": "This line has a length of 155. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 23,
+        "column": 1,
+        "message": "This line has a length of 171. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 27,
+        "column": 1,
+        "message": "This line has a length of 158. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-tabs/scripts/ExploreTabs.jsx",
+    "errorCount": 0,
+    "warningCount": 11,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 20,
+        "column": 24,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 21,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 27,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 35,
+        "column": 1,
+        "message": "This line has a length of 189. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 37,
+        "column": 8,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 40,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 46,
+        "column": 12,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 47,
+        "column": 6,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 64,
+        "column": 35,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 72,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 75,
+        "column": 4,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-tabs/scripts/ProductTabs.jsx",
+    "errorCount": 0,
+    "warningCount": 5,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 8,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 8,
+        "column": 112,
+        "message": "'varient' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 112,
+        "column": 1,
+        "message": "This line has a length of 126. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 121,
+        "column": 1,
+        "message": "This line has a length of 147. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 152,
+        "column": 1,
+        "message": "This line has a length of 135. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-tabs/scripts/_product-tabs.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-swiper/scripts/ProductSwiper.jsx",
+    "errorCount": 0,
+    "warningCount": 5,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 4,
+        "column": 1,
+        "message": "This line has a length of 2503. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 4,
+        "column": 2504,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 40,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 44,
+        "column": 1,
+        "message": "This line has a length of 192. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 50,
+        "column": 1,
+        "message": "This line has a length of 153. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/product-swiper/scripts/_product-swiper.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/react-cmp/scripts/ReactComponent.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/react-cmp/scripts/_react-cmp.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/scripts/RecipeDetail.jsx",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 27,
+        "column": 64,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 30,
+        "column": 60,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 34,
+        "column": 55,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 36,
+        "column": 5,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/scripts/RecipeDetailAashirvaad.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 62,
+        "column": 1,
+        "message": "This line has a length of 134. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 74,
+        "column": 1,
+        "message": "This line has a length of 147. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 109,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/scripts/RecipeDetailDarkfantasy.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/scripts/RecipeDetailYippee.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 2,
+        "column": 10,
+        "message": "'viewPort' is defined but never used."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 54,
+        "column": 14,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 136,
+        "column": 1,
+        "message": "This line has a length of 172. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-detail/scripts/_recipe-detail.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-direction/scripts/RecipeDirection.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-direction/scripts/_recipe-direction.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-group/scripts/CarouselCardGroup.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-group/scripts/RecipeGroup.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 85,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 101,
+        "column": 1,
+        "message": "This line has a length of 153. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 104,
+        "column": 1,
+        "message": "This line has a length of 138. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-group/scripts/YippeeRecipeGroup.jsx",
+    "errorCount": 0,
+    "warningCount": 5,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 68,
+        "column": 1,
+        "message": "This line has a length of 151. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 69,
+        "column": 1,
+        "message": "This line has a length of 130. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 89,
+        "column": 1,
+        "message": "This line has a length of 158. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 94,
+        "column": 1,
+        "message": "This line has a length of 160. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 96,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-group/scripts/_recipe-group.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-quiz/scripts/RecipeQuiz.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 7,
+        "column": 1,
+        "message": "This line has a length of 128. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 112,
+        "column": 1,
+        "message": "This line has a length of 149. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 130,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-quiz/scripts/RecipeQuizQuestionAnswer.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/recipe-quiz/scripts/_recipe-quiz.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/related-products/stories/related-products.stories.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 1,
+        "column": 59,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/related-products/scripts/RelatedProducts.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/related-products/scripts/_related-products.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/social/scripts/_social.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab/scripts/Tab.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab/scripts/_tab.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/share/scripts/_share.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/share/scripts/share.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 22,
+        "column": 1,
+        "message": "This line has a length of 128. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 54,
+        "column": 1,
+        "message": "This line has a length of 139. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 61,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab-group/scripts/CarouselTab.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 17,
+        "column": 6,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab-group/scripts/TabGroup.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab-group/scripts/YippeeTabGroup.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 21,
+        "column": 1,
+        "message": "This line has a length of 160. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 23,
+        "column": 1,
+        "message": "This line has a length of 164. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tab-group/scripts/_tab-group.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser/scripts/_teaser.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/scripts/TeaserCleanupDrive.jsx",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 29,
+        "column": 1,
+        "message": "This line has a length of 150. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 53,
+        "column": 1,
+        "message": "This line has a length of 176. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 65,
+        "column": 1,
+        "message": "This line has a length of 130. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 71,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/scripts/TeaserContest.jsx",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 9,
+        "column": 36,
+        "message": "'meatballs' is defined but never used."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 35,
+        "column": 21,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 41,
+        "column": 57,
+        "message": "'index' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 57,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/scripts/TeaserContestItem.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 26,
+        "column": 1,
+        "message": "This line has a length of 150. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 59,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/scripts/TeaserOwnStageItem.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 28,
+        "column": 1,
+        "message": "This line has a length of 150. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 61,
+        "column": 1,
+        "message": "This line has a length of 176. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 62,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/teaser-contest/scripts/_teaser-contest.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/test/scripts/Test.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/test/scripts/_test copy.js",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 8,
+        "message": "'React' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 2,
+        "column": 10,
+        "message": "'createRoot' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 3,
+        "column": 8,
+        "message": "'Test' is defined but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/test/scripts/_test.js",
+    "errorCount": 0,
+    "warningCount": 6,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1,
+        "column": 8,
+        "message": "'React' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 2,
+        "column": 10,
+        "message": "'createRoot' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 3,
+        "column": 8,
+        "message": "'Test' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 43,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 46,
+        "column": 1,
+        "message": "This line has a length of 130. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 52,
+        "column": 1,
+        "message": "This line has a length of 126. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tv-commercials/scripts/TvCommercials.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 253,
+        "column": 41,
+        "message": "'e' is defined but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/tv-commercials/scripts/_tv-commercials.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/scripts/YippeBannerNoContent.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 6,
+        "column": 58,
+        "message": "'mediaType' is assigned a value but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/scripts/YippeeBanner.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 43,
+        "column": 33,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 61,
+        "column": 1,
+        "message": "This line has a length of 156. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/scripts/YippeeBannerContentSecondHalf.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 33,
+        "column": 1,
+        "message": "This line has a length of 170. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 37,
+        "column": 1,
+        "message": "This line has a length of 129. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 39,
+        "column": 1,
+        "message": "This line has a length of 138. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-banner/scripts/_yippee-banner.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/scripts/DamVideo.jsx",
+    "errorCount": 0,
+    "warningCount": 10,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 7,
+        "column": 1,
+        "message": "This line has a length of 141. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 43,
+        "column": 1,
+        "message": "This line has a length of 139. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 43,
+        "column": 133,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 53,
+        "column": 35,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 99,
+        "column": 19,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 100,
+        "column": 18,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 106,
+        "column": 1,
+        "message": "This line has a length of 167. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 110,
+        "column": 1,
+        "message": "This line has a length of 170. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 113,
+        "column": 1,
+        "message": "This line has a length of 147. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 116,
+        "column": 1,
+        "message": "This line has a length of 142. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/scripts/PopupVideo.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 36,
+        "column": 1,
+        "message": "This line has a length of 141. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 36,
+        "column": 135,
+        "message": "Expected { after 'if' condition."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/scripts/Video.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 9,
+        "column": 45,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 20,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/scripts/YoutubeVideo.jsx",
+    "errorCount": 0,
+    "warningCount": 6,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 3,
+        "column": 8,
+        "message": "'Button' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 13,
+        "column": 10,
+        "message": "'showPrimaryPlayButton' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 30,
+        "column": 1,
+        "message": "This line has a length of 139. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 30,
+        "column": 133,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 60,
+        "column": 9,
+        "message": "'clickHandlerPrimaryPlayButton' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 76,
+        "column": 1,
+        "message": "This line has a length of 147. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/scripts/YoutubeVideoYipee.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 4,
+        "column": 30,
+        "message": "'url' is defined but never used."
+      },
+      {
+        "ruleId": "no-bitwise",
+        "severity": 1,
+        "line": 26,
+        "column": 16,
+        "message": "Unexpected use of '&'."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/video/scripts/_video.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-ingredients/scripts/YippeeIngredients.jsx",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 20,
+        "column": 31,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 37,
+        "column": 1,
+        "message": "This line has a length of 125. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-ingredients/scripts/_yippee-ingredients.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/scripts/ImageWithTitle.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 9,
+        "column": 1,
+        "message": "This line has a length of 216. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 14,
+        "column": 6,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 15,
+        "column": 4,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/scripts/YippeeJourney.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 36,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/scripts/YippeeJourneyCarousel.jsx",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 4,
+        "column": 10,
+        "message": "'viewPort' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 6,
+        "column": 1,
+        "message": "This line has a length of 124. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 24,
+        "column": 1,
+        "message": "This line has a length of 168. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/scripts/YippeeJourneyList.jsx",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 14,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-journey/scripts/_yippee-journey.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-reels/scripts/YippeeReels.jsx",
+    "errorCount": 0,
+    "warningCount": 13,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 5,
+        "column": 8,
+        "message": "'Video' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 7,
+        "column": 58,
+        "message": "'autoPlayIsEnabled' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 7,
+        "column": 77,
+        "message": "'autoPlaySpeedInMs' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 7,
+        "column": 96,
+        "message": "'infiniteScroll' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 12,
+        "column": 10,
+        "message": "'showPopupVideo' is assigned a value but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 36,
+        "column": 9,
+        "message": "'clickHandlerPlayIcon' is assigned a value but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 41,
+        "column": 9,
+        "message": "'clickHandlerClosePopupVideo' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 54,
+        "column": 1,
+        "message": "This line has a length of 162. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 55,
+        "column": 1,
+        "message": "This line has a length of 184. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 56,
+        "column": 13,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 58,
+        "column": 4,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 62,
+        "column": 1,
+        "message": "This line has a length of 191. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 80,
+        "column": 1,
+        "message": "This line has a length of 164. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/components/yippee-reels/scripts/_yippee-reels.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/aashirvaad/js/common.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/b_natural/js/common.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 33,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/bingo/js/common.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 21,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/dark_fantasy/js/common.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/yippee/js/common.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/hooks/useDebounce.jsx",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/utils/common.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/utils/constants.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/vendors/accordion-core-aem.js",
+    "errorCount": 0,
+    "warningCount": 17,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 19,
+        "column": 1,
+        "message": "This line has a length of 200. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 22,
+        "column": 1,
+        "message": "This line has a length of 247. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 96,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 119,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 120,
+        "column": 1,
+        "message": "This line has a length of 139. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 121,
+        "column": 1,
+        "message": "This line has a length of 135. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 162,
+        "column": 1,
+        "message": "This line has a length of 149. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 163,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 165,
+        "column": 1,
+        "message": "This line has a length of 168. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 166,
+        "column": 1,
+        "message": "This line has a length of 126. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 167,
+        "column": 1,
+        "message": "This line has a length of 158. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 256,
+        "column": 71,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 456,
+        "column": 1,
+        "message": "This line has a length of 125. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 480,
+        "column": 1,
+        "message": "This line has a length of 125. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 504,
+        "column": 1,
+        "message": "This line has a length of 163. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 511,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 621,
+        "column": 6,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/vendors/accordion.js",
+    "errorCount": 0,
+    "warningCount": 18,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 33,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 50,
+        "column": 1,
+        "message": "This line has a length of 200. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 53,
+        "column": 1,
+        "message": "This line has a length of 247. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 127,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 150,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 151,
+        "column": 1,
+        "message": "This line has a length of 139. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 152,
+        "column": 1,
+        "message": "This line has a length of 135. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 193,
+        "column": 1,
+        "message": "This line has a length of 149. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 194,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 196,
+        "column": 1,
+        "message": "This line has a length of 168. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 197,
+        "column": 1,
+        "message": "This line has a length of 126. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 198,
+        "column": 1,
+        "message": "This line has a length of 158. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 287,
+        "column": 71,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 487,
+        "column": 1,
+        "message": "This line has a length of 125. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 511,
+        "column": 1,
+        "message": "This line has a length of 125. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 535,
+        "column": 1,
+        "message": "This line has a length of 163. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 542,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 652,
+        "column": 6,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/vendors/container-utility.js",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 77,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 107,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 109,
+        "column": 1,
+        "message": "This line has a length of 151. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 125,
+        "column": 6,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/vendors/polyfills.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 33,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/vendors/search-core-aem.js",
+    "errorCount": 0,
+    "warningCount": 10,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 154,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 198,
+        "column": 42,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 200,
+        "column": 1,
+        "message": "This line has a length of 124. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 206,
+        "column": 41,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 207,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 216,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 290,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 335,
+        "column": 1,
+        "message": "This line has a length of 155. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 364,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 367,
+        "column": 1,
+        "message": "This line has a length of 125. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/vendors/search.js",
+    "errorCount": 0,
+    "warningCount": 15,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 186,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 243,
+        "column": 42,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 245,
+        "column": 1,
+        "message": "This line has a length of 124. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 251,
+        "column": 41,
+        "message": "'event' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 252,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 261,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 337,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 343,
+        "column": 1,
+        "message": "This line has a length of 124. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 383,
+        "column": 1,
+        "message": "This line has a length of 155. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 413,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 417,
+        "column": 49,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 423,
+        "column": 1,
+        "message": "This line has a length of 134. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 438,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 450,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 453,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/vendors/slick-carousel.js",
+    "errorCount": 0,
+    "warningCount": 117,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-var-requires",
+        "severity": 1,
+        "line": 6,
+        "column": 27,
+        "message": "Require statement not part of import statement."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 15,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 155,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 156,
+        "column": 36,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 157,
+        "column": 46,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 178,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 190,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 239,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 253,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 263,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 272,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 276,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 290,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 317,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 326,
+        "column": 11,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 332,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 369,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 408,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 424,
+        "column": 11,
+        "message": "Expected { after 'for-in'."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 466,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 502,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 504,
+        "column": 9,
+        "message": "Expected { after 'else'."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 514,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 554,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 560,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 570,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 612,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 618,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 632,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 646,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 655,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 672,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 677,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 677,
+        "column": 53,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 679,
+        "column": 11,
+        "message": "Expected { after 'else'."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 680,
+        "column": 13,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 686,
+        "column": 45,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 688,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 689,
+        "column": 11,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 696,
+        "column": 9,
+        "message": "Expected { after 'else'."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 708,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 800,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 813,
+        "column": 9,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 827,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 836,
+        "column": 17,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 847,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 865,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 914,
+        "column": 9,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 918,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 932,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 948,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 954,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 997,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1006,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1050,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1071,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1076,
+        "column": 11,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1091,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1103,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1108,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1113,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1121,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1147,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1182,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1196,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1201,
+        "column": 11,
+        "message": "Expected { after 'for-in'."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1203,
+        "column": 15,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1215,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1248,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1259,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1271,
+        "column": 11,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1285,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1301,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1334,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1358,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1375,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1389,
+        "column": 11,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1391,
+        "column": 11,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1395,
+        "column": 11,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1396,
+        "column": 13,
+        "message": "Expected { after 'for-in'."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1397,
+        "column": 15,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1400,
+        "column": 17,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1408,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1417,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1470,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1500,
+        "column": 9,
+        "message": "Expected { after 'else'."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1527,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1543,
+        "column": 11,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1551,
+        "column": 11,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1567,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1571,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1588,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1596,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1606,
+        "column": 11,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1618,
+        "column": 11,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1651,
+        "column": 13,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1668,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1682,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 1707,
+        "column": 39,
+        "message": "'i' is defined but never used."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1710,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1712,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1718,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1744,
+        "column": 9,
+        "message": "Expected { after 'else'."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1748,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1756,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1783,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1829,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1835,
+        "column": 9,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1847,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1855,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1870,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1874,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1910,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1919,
+        "column": 11,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 1926,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1931,
+        "column": 9,
+        "message": "Expected { after 'for' condition."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 1937,
+        "column": 11,
+        "message": "Expected { after 'if' condition."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/itc_foods/site/master/js/vendors/tabs.js",
+    "errorCount": 0,
+    "warningCount": 8,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 33,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 55,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 61,
+        "column": 1,
+        "message": "This line has a length of 225. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-this-alias",
+        "severity": 1,
+        "line": 103,
+        "column": 9,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 133,
+        "column": 1,
+        "message": "This line has a length of 132. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 136,
+        "column": 1,
+        "message": "This line has a length of 142. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 138,
+        "column": 1,
+        "message": "This line has a length of 139. Maximum allowed is 120."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 229,
+        "column": 57,
+        "message": "'event' is defined but never used."
+      }
+    ]
+  }
+]

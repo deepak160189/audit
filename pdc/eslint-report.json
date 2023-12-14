@@ -1,0 +1,742 @@
+[
+  {
+    "filePath": "./src/main/webpack/global/tokens/config.token.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/framework/initializer.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/framework/services.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/accordion/scripts/_accordion.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/bloghero/scripts/_bloghero.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/bloglisting/scripts/_bloglisting.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/card/scripts/_card.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/cardcarousel/scripts/_cardcarousel.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/container/scripts/_container.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/coveosearchresults/scripts/_coveosearchresults.js",
+    "errorCount": 0,
+    "warningCount": 89,
+    "messages": [
+      {
+        "line": 2,
+        "column": 10,
+        "message": "'loadCoveo' is defined but never used."
+      },
+      {
+        "line": 3,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      },
+      {
+        "line": 3,
+        "column": 75,
+        "message": "'loadScript' is defined but never used."
+      },
+      {
+        "line": 46,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 52,
+        "column": 1,
+        "message": "This line has a length of 135. Maximum allowed is 120."
+      },
+      {
+        "line": 55,
+        "column": 67,
+        "message": "'elm' is defined but never used."
+      },
+      {
+        "line": 60,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 71,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 74,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 84,
+        "column": 26,
+        "message": "'error' is defined but never used."
+      },
+      {
+        "line": 102,
+        "column": 1,
+        "message": "This line has a length of 121. Maximum allowed is 120."
+      },
+      {
+        "line": 109,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 138,
+        "column": 17,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "line": 142,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 146,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 149,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 150,
+        "column": 74,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "line": 150,
+        "column": 77,
+        "message": "'args' is defined but never used."
+      },
+      {
+        "line": 158,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 161,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 177,
+        "column": 89,
+        "message": "'elm' is defined but never used."
+      },
+      {
+        "line": 210,
+        "column": 1,
+        "message": "This line has a length of 157. Maximum allowed is 120."
+      },
+      {
+        "line": 238,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 241,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 277,
+        "column": 110,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "line": 291,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 294,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 322,
+        "column": 1,
+        "message": "This line has a length of 200. Maximum allowed is 120."
+      },
+      {
+        "line": 390,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 393,
+        "column": 86,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "line": 393,
+        "column": 89,
+        "message": "'args' is defined but never used."
+      },
+      {
+        "line": 395,
+        "column": 107,
+        "message": "'elm' is defined but never used."
+      },
+      {
+        "line": 399,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 402,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 403,
+        "column": 68,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "line": 403,
+        "column": 71,
+        "message": "'args' is defined but never used."
+      },
+      {
+        "line": 410,
+        "column": 1,
+        "message": "This line has a length of 171. Maximum allowed is 120."
+      },
+      {
+        "line": 410,
+        "column": 166,
+        "message": "'elm' is defined but never used."
+      },
+      {
+        "line": 412,
+        "column": 1,
+        "message": "This line has a length of 128. Maximum allowed is 120."
+      },
+      {
+        "line": 420,
+        "column": 66,
+        "message": "'elm' is defined but never used."
+      },
+      {
+        "line": 428,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 432,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 435,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 436,
+        "column": 75,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "line": 436,
+        "column": 78,
+        "message": "'args' is defined but never used."
+      },
+      {
+        "line": 446,
+        "column": 93,
+        "message": "'elm' is defined but never used."
+      },
+      {
+        "line": 447,
+        "column": 1,
+        "message": "This line has a length of 157. Maximum allowed is 120."
+      },
+      {
+        "line": 464,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 467,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 468,
+        "column": 69,
+        "message": "'elm' is defined but never used."
+      },
+      {
+        "line": 469,
+        "column": 67,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "line": 474,
+        "column": 72,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "line": 482,
+        "column": 62,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "line": 525,
+        "column": 54,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 533,
+        "column": 54,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 557,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 564,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 570,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 578,
+        "column": 1,
+        "message": "This line has a length of 145. Maximum allowed is 120."
+      },
+      {
+        "line": 589,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 610,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 613,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 613,
+        "column": 17,
+        "message": "'taht' is assigned a value but never used."
+      },
+      {
+        "line": 618,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 626,
+        "column": 45,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "line": 636,
+        "column": 1,
+        "message": "This line has a length of 125. Maximum allowed is 120."
+      },
+      {
+        "line": 640,
+        "column": 1,
+        "message": "This line has a length of 246. Maximum allowed is 120."
+      },
+      {
+        "line": 641,
+        "column": 1,
+        "message": "This line has a length of 284. Maximum allowed is 120."
+      },
+      {
+        "line": 642,
+        "column": 1,
+        "message": "This line has a length of 193. Maximum allowed is 120."
+      },
+      {
+        "line": 643,
+        "column": 1,
+        "message": "This line has a length of 361. Maximum allowed is 120."
+      },
+      {
+        "line": 656,
+        "column": 21,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 671,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 675,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 694,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 704,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 731,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 745,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 750,
+        "column": 92,
+        "message": "'elm' is defined but never used."
+      },
+      {
+        "line": 753,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 763,
+        "column": 21,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 764,
+        "column": 67,
+        "message": "'entries' is defined but never used."
+      },
+      {
+        "line": 771,
+        "column": 1,
+        "message": "This line has a length of 131. Maximum allowed is 120."
+      },
+      {
+        "line": 782,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 120."
+      },
+      {
+        "line": 797,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 805,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 814,
+        "column": 17,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "line": 835,
+        "column": 10,
+        "message": "Missing semicolon."
+      },
+      {
+        "line": 840,
+        "column": 17,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 847,
+        "column": 10,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/curatedlisting/scripts/_curatedlisting.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/footer/scripts/_footer.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/gallery/scripts/_gallery.js",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "line": 14,
+        "column": 1,
+        "message": "This line has a length of 133. Maximum allowed is 120."
+      },
+      {
+        "line": 68,
+        "column": 9,
+        "message": "'swiperMain' is assigned a value but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/header/scripts/_header.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/image/scripts/_image.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/newsletter/scripts/_newsletter.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/quotecarousel/scripts/_quotecarousel.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/scrolltabs/scripts/_scrolltabs.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/search/scripts/_search.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/spacer/scripts/_spacer.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/tabs/scripts/_tabs.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/teaser/scripts/_teaser.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/components/video/scripts/_video.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/smile_generation/js/common.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/pacific_dental/js/common.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/utils/common.js",
+    "errorCount": 0,
+    "warningCount": 4,
+    "messages": [
+      {
+        "line": 11,
+        "column": 51,
+        "message": "'mutations' is defined but never used."
+      },
+      {
+        "line": 24,
+        "column": 41,
+        "message": "'reject' is defined but never used."
+      },
+      {
+        "line": 26,
+        "column": 7,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "line": 34,
+        "column": 7,
+        "message": "Expected { after 'if' condition."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/utils/constants.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/utils/geolocator.js",
+    "errorCount": 0,
+    "warningCount": 7,
+    "messages": [
+      {
+        "line": 16,
+        "column": 44,
+        "message": "Expected { after 'while' condition."
+      },
+      {
+        "line": 17,
+        "column": 45,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "line": 32,
+        "column": 13,
+        "message": "Unexpected aliasing of 'this' to local variable."
+      },
+      {
+        "line": 33,
+        "column": 1,
+        "message": "This line has a length of 128. Maximum allowed is 120."
+      },
+      {
+        "line": 33,
+        "column": 114,
+        "message": "'data' is defined but never used."
+      },
+      {
+        "line": 33,
+        "column": 120,
+        "message": "'status' is defined but never used."
+      },
+      {
+        "line": 52,
+        "column": 3,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/utils/loadCoveo.js",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "line": 5,
+        "column": 1,
+        "message": "This line has a length of 143. Maximum allowed is 120."
+      },
+      {
+        "line": 19,
+        "column": 1,
+        "message": "This line has a length of 126. Maximum allowed is 120."
+      },
+      {
+        "line": 22,
+        "column": 2,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/utils/states.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "line": 120,
+        "column": 3,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/vendors/search-core-aem.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/vendors/search.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/vendors/slick-carousel.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/pacific_dental/site/master/js/vendors/tabs.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  }
+]

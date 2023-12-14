@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://publish-p116807-e1145402.adobeaemcloud.com/sprint-3-demo/tabs-1-row/payment-options.html",
+    "fileName": "publish-p116807-e1145402.adobeaemcloud.comsprint-3-demotabs-1-rowpayment-options.html.report.html",
+    "performance": 82,
+    "accessibility": 91,
+    "bestPractices": 91
+  },
+  {
+    "url": "https://publish-p116807-e1145402.adobeaemcloud.com/sprint-5-demo/homepage.html",
+    "fileName": "publish-p116807-e1145402.adobeaemcloud.comsprint-5-demohomepage.html.report.html",
+    "performance": 65,
+    "accessibility": 82,
+    "bestPractices": 91
+  },
+  {
+    "url": "https://publish-p116807-e1145402.adobeaemcloud.com/sprint-4-demo/yellow-card-cta/with-tags.html",
+    "fileName": "publish-p116807-e1145402.adobeaemcloud.comsprint-4-demoyellow-card-ctawith-tags.html.report.html",
+    "performance": 81,
+    "accessibility": 79,
+    "bestPractices": 91
+  }
+]
