@@ -1,0 +1,885 @@
+{
+  "dependencies": [
+    {
+      "name": "@coveo/headless",
+      "version": "2.37.0",
+      "license": "Apache-2.0",
+      "download": "https://registry.npmjs.org/@coveo/headless/-/headless-2.37.0.tgz",
+      "description": "[![npm version](https://badge.fury.io/js/@coveo%2Fheadless.svg)](https://badge.fury.io/js/@coveo%2Fheadless)",
+      "unpackedSize": "85481.04 MB"
+    },
+    {
+      "name": "@mercadopago/sdk-js",
+      "version": "0.0.3",
+      "license": "Apache-2.0",
+      "download": "https://registry.npmjs.org/@mercadopago/sdk-js/-/sdk-js-0.0.3.tgz",
+      "description": "Mercadopago SDK JS",
+      "unpackedSize": "27.21 MB"
+    },
+    {
+      "name": "@mercadopago/sdk-react",
+      "version": "0.0.15",
+      "license": "Apache-2.0",
+      "download": "https://registry.npmjs.org/@mercadopago/sdk-react/-/sdk-react-0.0.15.tgz",
+      "description": "Mercado Pago SDK React",
+      "unpackedSize": "143.98 MB"
+    },
+    {
+      "name": "@mui/base",
+      "version": "5.0.0-beta.22",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@mui/base/-/base-5.0.0-beta.22.tgz",
+      "description": "A library of headless ('unstyled') React UI components and low-level hooks.",
+      "unpackedSize": "2745.20 MB"
+    },
+    {
+      "name": "axios",
+      "version": "1.6.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/axios/-/axios-1.6.0.tgz",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "unpackedSize": "1744.02 MB"
+    },
+    {
+      "name": "google-map-react",
+      "version": "2.2.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/google-map-react/-/google-map-react-2.2.1.tgz",
+      "description": "Isomorphic component that allows rendering react components on a google map",
+      "unpackedSize": "491.79 MB"
+    },
+    {
+      "name": "graphql",
+      "version": "16.8.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/graphql/-/graphql-16.8.1.tgz",
+      "description": "A Query Language and Runtime which can target any service.",
+      "unpackedSize": "1309.27 MB"
+    },
+    {
+      "name": "jquery",
+      "version": "3.7.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/jquery/-/jquery-3.7.1.tgz",
+      "description": "JavaScript library for DOM operations",
+      "unpackedSize": "1217.16 MB"
+    },
+    {
+      "name": "jsencrypt",
+      "version": "3.3.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/jsencrypt/-/jsencrypt-3.3.2.tgz",
+      "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
+      "unpackedSize": "841.32 MB"
+    },
+    {
+      "name": "prop-types",
+      "version": "15.8.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz",
+      "description": "Runtime type checking for React props and similar objects.",
+      "unpackedSize": "92.32 MB"
+    },
+    {
+      "name": "react",
+      "version": "18.2.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/react/-/react-18.2.0.tgz",
+      "description": "React is a JavaScript library for building user interfaces.",
+      "unpackedSize": "308.70 MB"
+    },
+    {
+      "name": "react-dom",
+      "version": "18.2.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz",
+      "description": "React package for working with the DOM.",
+      "unpackedSize": "4396.61 MB"
+    },
+    {
+      "name": "react-google-autocomplete",
+      "version": "2.7.3",
+      "license": "ISC",
+      "download": "https://registry.npmjs.org/react-google-autocomplete/-/react-google-autocomplete-2.7.3.tgz",
+      "description": "React component for google autocomplete.",
+      "unpackedSize": "393.47 MB"
+    },
+    {
+      "name": "react-hook-form",
+      "version": "7.47.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/react-hook-form/-/react-hook-form-7.47.0.tgz",
+      "description": "Performant, flexible and extensible forms library for React Hooks",
+      "unpackedSize": "840.67 MB"
+    },
+    {
+      "name": "react-input-mask",
+      "version": "2.0.4",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/react-input-mask/-/react-input-mask-2.0.4.tgz",
+      "description": "Masked input component for React",
+      "unpackedSize": "108.89 MB"
+    },
+    {
+      "name": "react-intl",
+      "version": "6.5.1",
+      "license": "BSD-3-Clause",
+      "download": "https://registry.npmjs.org/react-intl/-/react-intl-6.5.1.tgz",
+      "description": "Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.",
+      "unpackedSize": "234.10 MB"
+    },
+    {
+      "name": "react-select",
+      "version": "5.7.7",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/react-select/-/react-select-5.7.7.tgz",
+      "description": "A Select control built with and for ReactJS",
+      "unpackedSize": "693.71 MB"
+    },
+    {
+      "name": "yup",
+      "version": "1.3.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/yup/-/yup-1.3.2.tgz",
+      "description": "Dead simple Object schema validation",
+      "unpackedSize": "242.19 MB"
+    }
+  ],
+  "devDependencies": [
+    {
+      "name": "@babel/core",
+      "version": "7.23.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/core/-/core-7.23.2.tgz",
+      "description": "Babel compiler core.",
+      "unpackedSize": "759.36 MB"
+    },
+    {
+      "name": "@babel/plugin-proposal-class-properties",
+      "version": "7.18.6",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/plugin-proposal-class-properties/-/plugin-proposal-class-properties-7.18.6.tgz",
+      "description": "This plugin transforms static class properties as well as properties declared with the property initializer syntax",
+      "unpackedSize": "3.26 MB"
+    },
+    {
+      "name": "@babel/plugin-proposal-object-rest-spread",
+      "version": "7.20.7",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.20.7.tgz",
+      "description": "Compile object rest and spread to ES5",
+      "unpackedSize": "68.84 MB"
+    },
+    {
+      "name": "@babel/plugin-syntax-dynamic-import",
+      "version": "7.8.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/plugin-syntax-dynamic-import/-/plugin-syntax-dynamic-import-7.8.3.tgz",
+      "description": "Allow parsing of import()",
+      "unpackedSize": "2.41 MB"
+    },
+    {
+      "name": "@babel/plugin-syntax-jsx",
+      "version": "7.22.5",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/plugin-syntax-jsx/-/plugin-syntax-jsx-7.22.5.tgz",
+      "description": "Allow parsing of jsx",
+      "unpackedSize": "4.03 MB"
+    },
+    {
+      "name": "@babel/plugin-transform-react-jsx",
+      "version": "7.22.15",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/plugin-transform-react-jsx/-/plugin-transform-react-jsx-7.22.15.tgz",
+      "description": "Turn JSX into React function calls",
+      "unpackedSize": "78.17 MB"
+    },
+    {
+      "name": "@babel/plugin-transform-runtime",
+      "version": "7.23.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/plugin-transform-runtime/-/plugin-transform-runtime-7.23.2.tgz",
+      "description": "Externalise references to helpers and builtins, automatically polyfilling your code without polluting globals",
+      "unpackedSize": "37.84 MB"
+    },
+    {
+      "name": "@babel/preset-env",
+      "version": "7.23.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/preset-env/-/preset-env-7.23.2.tgz",
+      "description": "A Babel preset for each environment.",
+      "unpackedSize": "137.39 MB"
+    },
+    {
+      "name": "@babel/preset-react",
+      "version": "7.22.15",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/preset-react/-/preset-react-7.22.15.tgz",
+      "description": "Babel preset for all React plugins.",
+      "unpackedSize": "11.92 MB"
+    },
+    {
+      "name": "@babel/preset-typescript",
+      "version": "7.23.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@babel/preset-typescript/-/preset-typescript-7.23.2.tgz",
+      "description": "Babel preset for TypeScript.",
+      "unpackedSize": "20.96 MB"
+    },
+    {
+      "name": "@formatjs/cli",
+      "version": "6.2.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@formatjs/cli/-/cli-6.2.1.tgz",
+      "description": "A CLI for formatjs.",
+      "unpackedSize": "9186.44 MB"
+    },
+    {
+      "name": "@magento/babel-preset-peregrine",
+      "version": "1.2.3",
+      "license": "(OSL-3.0 OR AFL-3.0)",
+      "download": "https://registry.npmjs.org/@magento/babel-preset-peregrine/-/babel-preset-peregrine-1.2.3.tgz",
+      "description": "Babel configuration common to progressive web projects build with Peregrine",
+      "unpackedSize": "8.01 MB"
+    },
+    {
+      "name": "@storybook/addon-actions",
+      "version": "7.5.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/addon-actions/-/addon-actions-7.5.2.tgz",
+      "description": "Get UI feedback when an action is performed on an interactive element",
+      "unpackedSize": "31.82 MB"
+    },
+    {
+      "name": "@storybook/addon-essentials",
+      "version": "7.5.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/addon-essentials/-/addon-essentials-7.5.2.tgz",
+      "description": "Curated addons to bring out the best of Storybook",
+      "unpackedSize": "27.28 MB"
+    },
+    {
+      "name": "@storybook/addon-interactions",
+      "version": "7.5.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/addon-interactions/-/addon-interactions-7.5.2.tgz",
+      "description": "Automate, test and debug user interactions",
+      "unpackedSize": "139.22 MB"
+    },
+    {
+      "name": "@storybook/addon-links",
+      "version": "7.5.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/addon-links/-/addon-links-7.5.2.tgz",
+      "description": "Link stories together to build demos and prototypes with your UI components",
+      "unpackedSize": "22.89 MB"
+    },
+    {
+      "name": "@storybook/addon-postcss",
+      "version": "2.0.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/addon-postcss/-/addon-postcss-2.0.0.tgz",
+      "description": "Storybook addon used to run the PostCSS preprocessor against your stories.",
+      "unpackedSize": "10.98 MB"
+    },
+    {
+      "name": "@storybook/builder-webpack4",
+      "version": "6.5.16",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/builder-webpack4/-/builder-webpack4-6.5.16.tgz",
+      "description": "Storybook framework-agnostic API",
+      "unpackedSize": "101.37 MB"
+    },
+    {
+      "name": "@storybook/builder-webpack5",
+      "version": "7.5.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/builder-webpack5/-/builder-webpack5-7.5.2.tgz",
+      "description": "Storybook framework-agnostic API",
+      "unpackedSize": "74.68 MB"
+    },
+    {
+      "name": "@storybook/manager-webpack4",
+      "version": "6.5.16",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/manager-webpack4/-/manager-webpack4-6.5.16.tgz",
+      "description": "Storybook framework-agnostic API",
+      "unpackedSize": "3372.17 MB"
+    },
+    {
+      "name": "@storybook/manager-webpack5",
+      "version": "6.5.16",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/manager-webpack5/-/manager-webpack5-6.5.16.tgz",
+      "description": "Storybook framework-agnostic API",
+      "unpackedSize": "3370.86 MB"
+    },
+    {
+      "name": "@storybook/preset-scss",
+      "version": "1.0.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/preset-scss/-/preset-scss-1.0.3.tgz",
+      "description": "SCSS preset for Storybook",
+      "unpackedSize": "3.32 MB"
+    },
+    {
+      "name": "@storybook/react",
+      "version": "7.5.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/react/-/react-7.5.2.tgz",
+      "description": "Storybook React renderer",
+      "unpackedSize": "98.23 MB"
+    },
+    {
+      "name": "@storybook/testing-library",
+      "version": "0.2.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@storybook/testing-library/-/testing-library-0.2.2.tgz",
+      "description": "Instrumented version of Testing Library for Storybook Interactions",
+      "unpackedSize": "65.65 MB"
+    },
+    {
+      "name": "@testing-library/react",
+      "version": "14.0.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@testing-library/react/-/react-14.0.0.tgz",
+      "description": "Simple and complete React DOM testing utilities that encourage good testing practices.",
+      "unpackedSize": "5161.01 MB"
+    },
+    {
+      "name": "@testing-library/react-hooks",
+      "version": "8.0.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@testing-library/react-hooks/-/react-hooks-8.0.1.tgz",
+      "description": "Simple and complete React hooks testing utilities that encourage good testing practices.",
+      "unpackedSize": "135.04 MB"
+    },
+    {
+      "name": "@types/react",
+      "version": "18.2.34",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@types/react/-/react-18.2.34.tgz",
+      "description": "TypeScript definitions for react",
+      "unpackedSize": "354.93 MB"
+    },
+    {
+      "name": "@types/react-dom",
+      "version": "18.2.14",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@types/react-dom/-/react-dom-18.2.14.tgz",
+      "description": "TypeScript definitions for react-dom",
+      "unpackedSize": "31.94 MB"
+    },
+    {
+      "name": "@typescript-eslint/eslint-plugin",
+      "version": "6.9.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/@typescript-eslint/eslint-plugin/-/eslint-plugin-6.9.1.tgz",
+      "description": "TypeScript plugin for ESLint",
+      "unpackedSize": "2394.85 MB"
+    },
+    {
+      "name": "@typescript-eslint/parser",
+      "version": "6.9.1",
+      "license": "BSD-2-Clause",
+      "download": "https://registry.npmjs.org/@typescript-eslint/parser/-/parser-6.9.1.tgz",
+      "description": "An ESLint custom parser which leverages TypeScript ESTree",
+      "unpackedSize": "17.28 MB"
+    },
+    {
+      "name": "acorn",
+      "version": "8.11.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/acorn/-/acorn-8.11.2.tgz",
+      "description": "ECMAScript parser",
+      "unpackedSize": "518.41 MB"
+    },
+    {
+      "name": "aem-clientlib-generator",
+      "version": "1.8.0",
+      "license": "Apache-2.0",
+      "download": "https://registry.npmjs.org/aem-clientlib-generator/-/aem-clientlib-generator-1.8.0.tgz",
+      "description": "Creates configuration files for AEM ClientLibs and synchronizes assets.",
+      "unpackedSize": "77.01 MB"
+    },
+    {
+      "name": "aemsync",
+      "version": "5.0.5",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/aemsync/-/aemsync-5.0.5.tgz",
+      "description": "The code and content synchronization for Sling / AEM (Adobe Experience Manager).",
+      "unpackedSize": "63.65 MB"
+    },
+    {
+      "name": "autoprefixer",
+      "version": "10.4.16",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/autoprefixer/-/autoprefixer-10.4.16.tgz",
+      "description": "Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website",
+      "unpackedSize": "194.34 MB"
+    },
+    {
+      "name": "babel-eslint",
+      "version": "10.1.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/babel-eslint/-/babel-eslint-10.1.0.tgz",
+      "description": "Custom parser for ESLint",
+      "unpackedSize": "29.68 MB"
+    },
+    {
+      "name": "babel-loader",
+      "version": "9.1.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/babel-loader/-/babel-loader-9.1.3.tgz",
+      "description": "babel module loader for webpack",
+      "unpackedSize": "37.49 MB"
+    },
+    {
+      "name": "babel-plugin-dynamic-import-node",
+      "version": "2.3.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/babel-plugin-dynamic-import-node/-/babel-plugin-dynamic-import-node-2.3.3.tgz",
+      "description": "Babel plugin to transpile import() to a deferred require(), for node",
+      "unpackedSize": "12.07 MB"
+    },
+    {
+      "name": "babel-plugin-formatjs",
+      "version": "10.5.7",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/babel-plugin-formatjs/-/babel-plugin-formatjs-10.5.7.tgz",
+      "description": "Extracts string messages for translation from modules that use formatjs.",
+      "unpackedSize": "23.03 MB"
+    },
+    {
+      "name": "babel-plugin-graphql-tag",
+      "version": "3.3.0",
+      "download": "https://registry.npmjs.org/babel-plugin-graphql-tag/-/babel-plugin-graphql-tag-3.3.0.tgz",
+      "description": "Compiles GraphQL tagged template strings using graphql-tag",
+      "unpackedSize": "31.95 MB"
+    },
+    {
+      "name": "babel-plugin-transform-react-remove-prop-types",
+      "version": "0.4.24",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/babel-plugin-transform-react-remove-prop-types/-/babel-plugin-transform-react-remove-prop-types-0.4.24.tgz",
+      "description": "Remove unnecessary React propTypes from the production build",
+      "unpackedSize": "47.56 MB"
+    },
+    {
+      "name": "browserslist",
+      "version": "4.22.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/browserslist/-/browserslist-4.22.1.tgz",
+      "description": "Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-env-preset",
+      "unpackedSize": "60.83 MB"
+    },
+    {
+      "name": "chokidar-cli",
+      "version": "3.0.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/chokidar-cli/-/chokidar-cli-3.0.0.tgz",
+      "description": "Ultra-fast cross-platform command line utility to watch file system changes.",
+      "unpackedSize": "17.98 MB"
+    },
+    {
+      "name": "clean-webpack-plugin",
+      "version": "4.0.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/clean-webpack-plugin/-/clean-webpack-plugin-4.0.0.tgz",
+      "description": "A webpack plugin to remove/clean your build folder(s).",
+      "unpackedSize": "34.83 MB"
+    },
+    {
+      "name": "copy-webpack-plugin",
+      "version": "11.0.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/copy-webpack-plugin/-/copy-webpack-plugin-11.0.0.tgz",
+      "description": "Copy files && directories with webpack",
+      "unpackedSize": "75.77 MB"
+    },
+    {
+      "name": "css-loader",
+      "version": "6.8.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/css-loader/-/css-loader-6.8.1.tgz",
+      "description": "css loader module for webpack",
+      "unpackedSize": "128.02 MB"
+    },
+    {
+      "name": "css-minimizer-webpack-plugin",
+      "version": "5.0.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/css-minimizer-webpack-plugin/-/css-minimizer-webpack-plugin-5.0.1.tgz",
+      "description": "CSS minimizer (minifier) plugin for Webpack",
+      "unpackedSize": "79.99 MB"
+    },
+    {
+      "name": "cssnano",
+      "version": "6.0.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/cssnano/-/cssnano-6.0.1.tgz",
+      "description": "A modular minifier, built on top of the PostCSS ecosystem.",
+      "unpackedSize": "6.84 MB"
+    },
+    {
+      "name": "eslint",
+      "version": "8.52.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint/-/eslint-8.52.0.tgz",
+      "description": "An AST-based pattern checker for JavaScript.",
+      "unpackedSize": "2941.53 MB"
+    },
+    {
+      "name": "eslint-config-airbnb",
+      "version": "19.0.4",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-config-airbnb/-/eslint-config-airbnb-19.0.4.tgz",
+      "description": "Airbnb's ESLint config, following our styleguide",
+      "unpackedSize": "79.82 MB"
+    },
+    {
+      "name": "eslint-config-prettier",
+      "version": "9.0.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-9.0.0.tgz",
+      "description": "Turns off all rules that are unnecessary or might conflict with Prettier.",
+      "unpackedSize": "20.27 MB"
+    },
+    {
+      "name": "eslint-import-resolver-webpack",
+      "version": "0.13.8",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-import-resolver-webpack/-/eslint-import-resolver-webpack-0.13.8.tgz",
+      "description": "Resolve paths to dependencies, given a webpack.config.js. Plugin for eslint-plugin-import.",
+      "unpackedSize": "19.75 MB"
+    },
+    {
+      "name": "eslint-plugin-header",
+      "version": "3.1.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-plugin-header/-/eslint-plugin-header-3.1.1.tgz",
+      "description": "ESLint plugin to ensure that files begin with given comment",
+      "unpackedSize": "30.43 MB"
+    },
+    {
+      "name": "eslint-plugin-import",
+      "version": "2.29.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-plugin-import/-/eslint-plugin-import-2.29.0.tgz",
+      "description": "Import with sanity.",
+      "unpackedSize": "1181.21 MB"
+    },
+    {
+      "name": "eslint-plugin-jest",
+      "version": "27.6.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-plugin-jest/-/eslint-plugin-jest-27.6.0.tgz",
+      "description": "ESLint rules for Jest",
+      "unpackedSize": "312.03 MB"
+    },
+    {
+      "name": "eslint-plugin-jsx-a11y",
+      "version": "6.8.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.8.0.tgz",
+      "description": "Static AST checker for accessibility rules on JSX elements.",
+      "unpackedSize": "721.36 MB"
+    },
+    {
+      "name": "eslint-plugin-prettier",
+      "version": "5.0.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-plugin-prettier/-/eslint-plugin-prettier-5.0.1.tgz",
+      "description": "Runs prettier as an eslint rule",
+      "unpackedSize": "61.44 MB"
+    },
+    {
+      "name": "eslint-plugin-react",
+      "version": "7.33.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.33.2.tgz",
+      "description": "React specific linting rules for ESLint",
+      "unpackedSize": "776.34 MB"
+    },
+    {
+      "name": "eslint-plugin-react-hooks",
+      "version": "4.6.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.6.0.tgz",
+      "description": "ESLint rules for React Hooks",
+      "unpackedSize": "114.90 MB"
+    },
+    {
+      "name": "eslint-plugin-storybook",
+      "version": "0.6.15",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-plugin-storybook/-/eslint-plugin-storybook-0.6.15.tgz",
+      "description": "Best practice rules for Storybook",
+      "unpackedSize": "105.21 MB"
+    },
+    {
+      "name": "eslint-webpack-plugin",
+      "version": "4.0.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/eslint-webpack-plugin/-/eslint-webpack-plugin-4.0.1.tgz",
+      "description": "A ESLint plugin for webpack",
+      "unpackedSize": "44.83 MB"
+    },
+    {
+      "name": "glob-import-loader",
+      "version": "1.2.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/glob-import-loader/-/glob-import-loader-1.2.0.tgz",
+      "description": "Webpack loader that enables glob patterns in ES6 imports.",
+      "unpackedSize": "22.64 MB"
+    },
+    {
+      "name": "graphql-tag",
+      "version": "2.12.6",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/graphql-tag/-/graphql-tag-2.12.6.tgz",
+      "description": "A JavaScript template literal tag that parses GraphQL queries",
+      "unpackedSize": "168.10 MB"
+    },
+    {
+      "name": "html-webpack-plugin",
+      "version": "5.5.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/html-webpack-plugin/-/html-webpack-plugin-5.5.3.tgz",
+      "description": "Simplifies creation of HTML files to serve your webpack bundles",
+      "unpackedSize": "116.18 MB"
+    },
+    {
+      "name": "husky",
+      "version": "8.0.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/husky/-/husky-8.0.3.tgz",
+      "description": "Modern native Git hooks made easy",
+      "unpackedSize": "6.29 MB"
+    },
+    {
+      "name": "identity-obj-proxy",
+      "version": "3.0.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/identity-obj-proxy/-/identity-obj-proxy-3.0.0.tgz",
+      "description": "an identity object using ES6 proxies",
+      "unpackedSize": "NaN MB"
+    },
+    {
+      "name": "jest",
+      "version": "29.7.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/jest/-/jest-29.7.0.tgz",
+      "description": "Delightful JavaScript Testing.",
+      "unpackedSize": "4.89 MB"
+    },
+    {
+      "name": "jest-junit",
+      "version": "16.0.0",
+      "license": "Apache-2.0",
+      "download": "https://registry.npmjs.org/jest-junit/-/jest-junit-16.0.0.tgz",
+      "description": "A jest reporter that generates junit xml files",
+      "unpackedSize": "40.88 MB"
+    },
+    {
+      "name": "jest-transform-graphql",
+      "version": "2.1.0",
+      "license": "ISC",
+      "download": "https://registry.npmjs.org/jest-transform-graphql/-/jest-transform-graphql-2.1.0.tgz",
+      "description": "Jest transformer for .gql imports",
+      "unpackedSize": "NaN MB"
+    },
+    {
+      "name": "mini-css-extract-plugin",
+      "version": "2.7.6",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/mini-css-extract-plugin/-/mini-css-extract-plugin-2.7.6.tgz",
+      "description": "extracts CSS into separate files",
+      "unpackedSize": "111.76 MB"
+    },
+    {
+      "name": "optimize-css-assets-webpack-plugin",
+      "version": "6.0.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/optimize-css-assets-webpack-plugin/-/optimize-css-assets-webpack-plugin-6.0.1.tgz",
+      "description": "A Webpack plugin to optimize \\ minimize CSS assets.",
+      "unpackedSize": "17.53 MB"
+    },
+    {
+      "name": "postcss",
+      "version": "8.4.31",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/postcss/-/postcss-8.4.31.tgz",
+      "description": "Tool for transforming styles with JS plugins",
+      "unpackedSize": "191.91 MB"
+    },
+    {
+      "name": "postcss-loader",
+      "version": "7.3.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/postcss-loader/-/postcss-loader-7.3.3.tgz",
+      "description": "PostCSS loader for webpack",
+      "unpackedSize": "72.58 MB"
+    },
+    {
+      "name": "prettier",
+      "version": "3.0.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/prettier/-/prettier-3.0.3.tgz",
+      "description": "Prettier is an opinionated code formatter",
+      "unpackedSize": "8292.20 MB"
+    },
+    {
+      "name": "react-refresh",
+      "version": "0.14.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/react-refresh/-/react-refresh-0.14.0.tgz",
+      "description": "React is a JavaScript library for building user interfaces.",
+      "unpackedSize": "57.33 MB"
+    },
+    {
+      "name": "react-test-renderer",
+      "version": "18.2.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/react-test-renderer/-/react-test-renderer-18.2.0.tgz",
+      "description": "React package for snapshot testing.",
+      "unpackedSize": "1465.25 MB"
+    },
+    {
+      "name": "rtlcss-webpack-plugin",
+      "version": "4.0.7",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/rtlcss-webpack-plugin/-/rtlcss-webpack-plugin-4.0.7.tgz",
+      "description": "Webpack plugin to use in addition to [extract-text-webpack-plugin](https://github.com/webpack/extract-text-webpack-plugin) to create a second css bundle, processed to be rtl.",
+      "unpackedSize": "15.69 MB"
+    },
+    {
+      "name": "sass",
+      "version": "1.69.5",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/sass/-/sass-1.69.5.tgz",
+      "description": "A pure JavaScript implementation of Sass.",
+      "unpackedSize": "5042.34 MB"
+    },
+    {
+      "name": "sass-loader",
+      "version": "13.3.2",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/sass-loader/-/sass-loader-13.3.2.tgz",
+      "description": "Sass loader for webpack",
+      "unpackedSize": "57.34 MB"
+    },
+    {
+      "name": "source-map-loader",
+      "version": "4.0.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/source-map-loader/-/source-map-loader-4.0.1.tgz",
+      "description": "extracts inlined source map and offers it to webpack",
+      "unpackedSize": "31.26 MB"
+    },
+    {
+      "name": "style-loader",
+      "version": "3.3.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/style-loader/-/style-loader-3.3.3.tgz",
+      "description": "style loader module for webpack",
+      "unpackedSize": "59.56 MB"
+    },
+    {
+      "name": "stylelint",
+      "version": "15.11.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/stylelint/-/stylelint-15.11.0.tgz",
+      "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+      "unpackedSize": "935.95 MB"
+    },
+    {
+      "name": "stylelint-config-prettier-scss",
+      "version": "1.0.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/stylelint-config-prettier-scss/-/stylelint-config-prettier-scss-1.0.0.tgz",
+      "description": "Turns off all SCSS rules that are unnecessary or might conflict with Prettier.",
+      "unpackedSize": "12.59 MB"
+    },
+    {
+      "name": "stylelint-config-standard-scss",
+      "version": "11.1.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/stylelint-config-standard-scss/-/stylelint-config-standard-scss-11.1.0.tgz",
+      "description": "The standard shareable SCSS config for Stylelint",
+      "unpackedSize": "6.18 MB"
+    },
+    {
+      "name": "terser-webpack-plugin",
+      "version": "5.3.9",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/terser-webpack-plugin/-/terser-webpack-plugin-5.3.9.tgz",
+      "description": "Terser plugin for webpack",
+      "unpackedSize": "85.80 MB"
+    },
+    {
+      "name": "ts-loader",
+      "version": "9.5.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/ts-loader/-/ts-loader-9.5.0.tgz",
+      "description": "TypeScript loader for webpack",
+      "unpackedSize": "252.26 MB"
+    },
+    {
+      "name": "tsconfig-paths-webpack-plugin",
+      "version": "4.1.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/tsconfig-paths-webpack-plugin/-/tsconfig-paths-webpack-plugin-4.1.0.tgz",
+      "description": "Load modules according to tsconfig paths in webpack.",
+      "unpackedSize": "267.74 MB"
+    },
+    {
+      "name": "typescript",
+      "version": "5.2.2",
+      "license": "Apache-2.0",
+      "download": "https://registry.npmjs.org/typescript/-/typescript-5.2.2.tgz",
+      "description": "TypeScript is a language for application scale JavaScript development",
+      "unpackedSize": "39655.59 MB"
+    },
+    {
+      "name": "webpack",
+      "version": "5.89.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/webpack/-/webpack-5.89.0.tgz",
+      "description": "Packs ECMAScript/CommonJs/AMD modules for the browser. Allows you to split your codebase into multiple bundles, which can be loaded on demand. Supports loaders to preprocess files, i.e. json, jsx, es7, css, less, ... and your custom stuff.",
+      "unpackedSize": "4645.26 MB"
+    },
+    {
+      "name": "webpack-cli",
+      "version": "5.1.4",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/webpack-cli/-/webpack-cli-5.1.4.tgz",
+      "description": "CLI for webpack & friends",
+      "unpackedSize": "107.86 MB"
+    },
+    {
+      "name": "webpack-dev-server",
+      "version": "4.15.1",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/webpack-dev-server/-/webpack-dev-server-4.15.1.tgz",
+      "description": "Serves a webpack app. Updates the browser on changes.",
+      "unpackedSize": "619.01 MB"
+    },
+    {
+      "name": "webpack-import-glob-loader",
+      "version": "1.6.3",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/webpack-import-glob-loader/-/webpack-import-glob-loader-1.6.3.tgz",
+      "description": "ES6 import with glob patterns (preloader for Webpack)",
+      "unpackedSize": "8.41 MB"
+    },
+    {
+      "name": "webpack-merge",
+      "version": "5.10.0",
+      "license": "MIT",
+      "download": "https://registry.npmjs.org/webpack-merge/-/webpack-merge-5.10.0.tgz",
+      "description": "Variant of merge that's useful for webpack configuration",
+      "unpackedSize": "46.79 MB"
+    }
+  ]
+}

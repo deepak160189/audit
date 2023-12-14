@@ -1,0 +1,485 @@
+[
+  {
+    "filePath": "./src/main/webpack/framework/initializer.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/framework/services.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/site/greyThemeForm.ts",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/site/main.ts",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/site/whiteThemeForm.ts",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/agreementsmodal/agreementsmodal.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/card/card.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/carousel/carousel.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/container/container.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/findacareer/findacareer.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/footer/footer.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/form/form.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/herobanner/herobanner.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/header/account.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/header/header.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/header/nav.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/header/search.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/modal/modal.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/notificationbanner/notificationbanner.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/pagination/pagination.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/partsspecaccordion/partsspecaccordion.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/powercalculator/powercalculator.js",
+    "errorCount": 0,
+    "warningCount": 9,
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 105,
+        "column": 1,
+        "message": "This line has a length of 572. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 128,
+        "column": 1,
+        "message": "This line has a length of 400. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 287,
+        "column": 59,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 316,
+        "column": 1,
+        "message": "This line has a length of 430. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 400,
+        "column": 1,
+        "message": "This line has a length of 755. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 496,
+        "column": 63,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 609,
+        "column": 61,
+        "message": "'e' is defined but never used."
+      },
+      {
+        "ruleId": "curly",
+        "severity": 1,
+        "line": 667,
+        "column": 14,
+        "message": "Expected { after 'else'."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 672,
+        "column": 6,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/components/productdetail/productdetail.js",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 23,
+        "column": 10,
+        "message": "'completePartCatalogLink' is assigned a value but never used."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/components/productcard/productcard.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/productsearch/productsearch.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/productspddata/productspddata.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/productspec/productspec.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/productspec/tablerender.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/productspecgrid/productspecgrid.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/productsubdetail/productsubdetail.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/searchresults/searchresults.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/sign-in-buttons/sign-in-buttons.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/site/components/main.ts",
+    "errorCount": 0,
+    "warningCount": 1,
+    "messages": [
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 5,
+        "column": 51,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/site/js/a11y.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/site/js/const.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/site/js/event.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/site/js/helper.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  },
+  {
+    "filePath": "./src/main/webpack/components/searchresults/searchfield/searchfield.js",
+    "errorCount": 0,
+    "warningCount": 2,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 37,
+        "column": 16,
+        "message": "'searchPageUrl' is assigned a value but never used."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 202,
+        "column": 2,
+        "message": "Newline required at end of file but not found."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/components/searchresults/searchfilterandresults/searchfilterandresults.js",
+    "errorCount": 0,
+    "warningCount": 3,
+    "messages": [
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 2,
+        "column": 69,
+        "message": "'setLocalDataOnPageVisit' is defined but never used."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 23,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 31,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/site/js/utils/dataUtil.js",
+    "errorCount": 1,
+    "warningCount": 16,
+    "messages": [
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 7,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 35,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-extra-semi",
+        "severity": 2,
+        "line": 87,
+        "column": 6,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 88,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 94,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "@typescript-eslint/no-unused-vars",
+        "severity": 1,
+        "line": 105,
+        "column": 22,
+        "message": "'ContentType' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 149,
+        "column": 1,
+        "message": "This line has a length of 325. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 151,
+        "column": 1,
+        "message": "This line has a length of 188. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 152,
+        "column": 1,
+        "message": "This line has a length of 200. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 208,
+        "column": 1,
+        "message": "This line has a length of 368. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 209,
+        "column": 1,
+        "message": "This line has a length of 229. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 210,
+        "column": 1,
+        "message": "This line has a length of 221. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 283,
+        "column": 1,
+        "message": "This line has a length of 376. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 284,
+        "column": 1,
+        "message": "This line has a length of 237. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "max-len",
+        "severity": 1,
+        "line": 285,
+        "column": 1,
+        "message": "This line has a length of 229. Maximum allowed is 175."
+      },
+      {
+        "ruleId": "eol-last",
+        "severity": 1,
+        "line": 342,
+        "column": 2,
+        "message": "Newline required at end of file but not found."
+      },
+      {
+        "ruleId": "semi",
+        "severity": 1,
+        "line": 342,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "./src/main/webpack/site/js/utils/i18nUtils.js",
+    "errorCount": 0,
+    "warningCount": 0,
+    "messages": []
+  }
+]
