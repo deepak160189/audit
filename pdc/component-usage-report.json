@@ -1,0 +1,650 @@
+[
+  {
+    "path": "/apps/pacific-dental/dialogs/sgcommon",
+    "excerpt": "Poppins",
+    "name": "sgcommon",
+    "title": "SG Common Fields",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/spacer",
+    "excerpt": "It allows you to set space all four sides",
+    "name": "spacer",
+    "title": "Spacer",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/nearbyoffices",
+    "excerpt": "",
+    "name": "nearbyoffices",
+    "title": "Nearby Offices",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/exact-target/subscription/v1/subscription",
+    "excerpt": "Enable by default Show Form option selected.",
+    "name": "subscription",
+    "title": "Subscription",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/teaser/teaser/v1/teaser",
+    "excerpt": "Enable by default see more and see less option.",
+    "name": "teaser",
+    "title": "Teaser",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/teaser/base/v1/teaser",
+    "excerpt": "",
+    "name": "teaser",
+    "title": "teaser",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/teaser/card/v1/teaser",
+    "excerpt": "component.teaser.subTitleHidden",
+    "name": "teaser",
+    "title": "Card",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/teaser/flyoutcard/v1/teaser",
+    "excerpt": "component.teaser.headingHidden",
+    "name": "teaser",
+    "title": "Flyoutcard",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/teaser/staggeredCard/v1/teaser",
+    "excerpt": "",
+    "name": "teaser",
+    "title": "Staggered Card",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/teaser/hero/v1/teaser",
+    "excerpt": "component.teaser.headingHidden",
+    "name": "teaser",
+    "title": "Hero",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/image",
+    "excerpt": "",
+    "name": "image",
+    "title": "Image",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 2
+  },
+  {
+    "path": "/apps/pacific-dental/components/admin/owl/importer",
+    "excerpt": "",
+    "name": "importer",
+    "title": "Sort Nodes",
+    "created": "2023-10-19 11:47:17",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/admin/seo/importer",
+    "excerpt": "",
+    "name": "importer",
+    "title": "SEO Importer",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/reviewsupdater",
+    "excerpt": "It allows you to set space all four sides",
+    "name": "reviewsupdater",
+    "title": "GBP Reviews Updater",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/container",
+    "excerpt": "Select",
+    "name": "container",
+    "title": "Container",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 201
+  },
+  {
+    "path": "/apps/pacific-dental/components/experiencefragment",
+    "excerpt": "",
+    "name": "experiencefragment",
+    "title": "Experience Fragment",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/form/container",
+    "excerpt": "Container for components that allow users to submit information",
+    "name": "container",
+    "title": "Core Form Container",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 201
+  },
+  {
+    "path": "/apps/pacific-dental/components/form/container/new",
+    "excerpt": "",
+    "name": "new",
+    "title": "New Paragraph - Core Form Container",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/form/text",
+    "excerpt": "",
+    "name": "text",
+    "title": "Form Text",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 32
+  },
+  {
+    "path": "/apps/pacific-dental/components/form/options",
+    "excerpt": "",
+    "name": "options",
+    "title": "Form Options",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/form/hidden",
+    "excerpt": "",
+    "name": "hidden",
+    "title": "Form Hidden",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/form/button",
+    "excerpt": "",
+    "name": "button",
+    "title": "Form Button",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/primarynavsearch",
+    "excerpt": "",
+    "name": "primarynavsearch",
+    "title": "Primary Nav Search",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/buttongroup",
+    "excerpt": "Open link in new tab",
+    "name": "buttongroup",
+    "title": "Button Group",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/text",
+    "excerpt": "Cancel",
+    "name": "text",
+    "title": "Text",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 32
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/dental-services/office-profile/v1/dental-services",
+    "excerpt": "Office Profile - Dental Services",
+    "name": "dental-services",
+    "title": "Office Profile - Dental Services",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/location/office-profile/v1/location",
+    "excerpt": "Office Profile - Location",
+    "name": "location",
+    "title": "Office Profile - Location",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/staff-listing/office-profile/v1/staff-listing",
+    "excerpt": "Office Profile - Staff Listing",
+    "name": "staff-listing",
+    "title": "Office Profile - Staff Listing",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/schedule/office-profile/v1/schedule",
+    "excerpt": "Office Profile - Schedule",
+    "name": "schedule",
+    "title": "Office Profile - Schedule",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/information/provider-quote/v1/quote",
+    "excerpt": "Provider Quote",
+    "name": "quote",
+    "title": "Provider Quote",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/information/provider-profile/v1/profile",
+    "excerpt": "Provider Profile",
+    "name": "profile",
+    "title": "Provider Profile",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/information/provider-education/v1/education",
+    "excerpt": "Provider Education",
+    "name": "education",
+    "title": "Provider Education",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/hero/office-profile/v1/hero",
+    "excerpt": "Office Profile - Hero",
+    "name": "hero",
+    "title": "Office Profile - Hero",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/office/hero/provider-profile/v1/hero",
+    "excerpt": "Provider Profile - Hero",
+    "name": "hero",
+    "title": "Provider Profile - Hero",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/popupsearch",
+    "excerpt": "",
+    "name": "popupsearch",
+    "title": "Pop Up Search",
+    "created": "2023-10-19 11:47:17",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/accordion",
+    "excerpt": "PDS",
+    "name": "accordion",
+    "title": "Accordion",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 5
+  },
+  {
+    "path": "/apps/pacific-dental/components/accordion/new",
+    "excerpt": "",
+    "name": "new",
+    "title": "New Paragraph - Accordion",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/tabs/base/v1/tabs",
+    "excerpt": "",
+    "name": "tabs",
+    "title": "tabs",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/tabs/base/v1/tabs/new",
+    "excerpt": "",
+    "name": "new",
+    "title": "New Paragraph - Tabs",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/tabs/tabs/v1/tabs",
+    "excerpt": "Normal Tab",
+    "name": "tabs",
+    "title": "Tabs",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/tabs/scrolltabs/v1/tabs",
+    "excerpt": "",
+    "name": "tabs",
+    "title": "Scroll Tabs",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/blog/curatedListing",
+    "excerpt": "Select to Display Blog Category",
+    "name": "curatedListing",
+    "title": "Curated Listing",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/blog/blogrecommendations",
+    "excerpt": "",
+    "name": "blogrecommendations",
+    "title": "Blog Recommendations",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/blog/bloghero",
+    "excerpt": "",
+    "name": "bloghero",
+    "title": "Blog Hero",
+    "created": "2023-10-27 12:02:18",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/blog/blogListing",
+    "excerpt": "component.blogListing.sort.sortType.latestModified",
+    "name": "blogListing",
+    "title": "Blog Listing",
+    "created": "2023-10-19 11:46:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/blog/dynamicListing",
+    "excerpt": "Enable Carousel",
+    "name": "dynamicListing",
+    "title": "Dynamic Blog Listing",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/interactive-map",
+    "excerpt": "",
+    "name": "interactive-map",
+    "title": "Interactive Map",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/title",
+    "excerpt": "H1",
+    "name": "title",
+    "title": "Title",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 38
+  },
+  {
+    "path": "/apps/pacific-dental/components/coveosearchresults",
+    "excerpt": "- OR -",
+    "name": "coveosearchresults",
+    "title": "Smile Generation Search Results",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/separator",
+    "excerpt": "",
+    "name": "separator",
+    "title": "Separator",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 7
+  },
+  {
+    "path": "/apps/pacific-dental/components/list/base/v1/list",
+    "excerpt": "",
+    "name": "list",
+    "title": "list",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/list/dynamic-list/v1/list",
+    "excerpt": "",
+    "name": "list",
+    "title": "Dynamic List",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/list/blog/related-post/v1/list",
+    "excerpt": "",
+    "name": "list",
+    "title": "Blog Related Post",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/list/static-list/v1/list",
+    "excerpt": "Card",
+    "name": "list",
+    "title": "Static List",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/popupmodal",
+    "excerpt": "",
+    "name": "popupmodal",
+    "title": "Pop up Modal",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/geolocator",
+    "excerpt": "",
+    "name": "geolocator",
+    "title": "Pacific Dental CMS Geolocator",
+    "created": "2023-11-07 20:02:44",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/quote/v1/text",
+    "excerpt": "",
+    "name": "text",
+    "title": "Quote",
+    "created": "2023-10-27 12:02:18",
+    "usageCount": 32
+  },
+  {
+    "path": "/apps/pacific-dental/components/carousel/base/v1/carousel",
+    "excerpt": "",
+    "name": "carousel",
+    "title": "carousel",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/carousel/base/v1/carousel/new",
+    "excerpt": "",
+    "name": "new",
+    "title": "New Paragraph - Carousel",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/carousel/quotecarousel/v1/carousel",
+    "excerpt": "",
+    "name": "carousel",
+    "title": "Quote Carousel",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/carousel/carousel/v1/carousel",
+    "excerpt": "Hide Link Tab",
+    "name": "carousel",
+    "title": "Carousel",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/carousel/gallery/v1/carousel",
+    "excerpt": "",
+    "name": "carousel",
+    "title": "Gallery",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/promo-block",
+    "excerpt": "Enable by default Show Form option selected.",
+    "name": "promo-block",
+    "title": "Promo Block",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/blogpage",
+    "excerpt": "Most Popular",
+    "name": "blogpage",
+    "title": "Pacific Dental CMS Blog Details Page",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/contentfragment",
+    "excerpt": "",
+    "name": "contentfragment",
+    "title": "Content Fragment",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/structure/footer",
+    "excerpt": "component.structure.footer.social.target",
+    "name": "footer",
+    "title": "Footer",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/structure/header/sub-navigation/v1/subnavigation",
+    "excerpt": "Disable Category Heading",
+    "name": "subnavigation",
+    "title": "Sub Navigation",
+    "created": "2024-01-04 14:50:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/structure/header/primary-navigation/v1/navigation",
+    "excerpt": "Collect all child pages",
+    "name": "navigation",
+    "title": "Navigation",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/structure/header/primary-navigation/v1/header",
+    "excerpt": "Check To Enable Sticky Header",
+    "name": "header",
+    "title": "Primary Navigation",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/embed",
+    "excerpt": "component.embed.layout.fixed",
+    "name": "embed",
+    "title": "Embed",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 6
+  },
+  {
+    "path": "/apps/pacific-dental/components/embed/embeddable",
+    "excerpt": "component.embed.layout.fixed",
+    "name": "embeddable",
+    "title": "embeddable",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/embed/embeddable/vimeo",
+    "excerpt": "component.embed.layout.fixed",
+    "name": "vimeo",
+    "title": "Vimeo",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/information",
+    "excerpt": "",
+    "name": "information",
+    "title": "Information",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/button",
+    "excerpt": "Open Pop up?",
+    "name": "button",
+    "title": "Button",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/page",
+    "excerpt": "Please use a PNG icon of size 512x512 pixels.",
+    "name": "page",
+    "title": "Pacific Dental CMS Platform Page",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 78
+  },
+  {
+    "path": "/apps/pacific-dental/components/contentfragmentlist",
+    "excerpt": "",
+    "name": "contentfragmentlist",
+    "title": "Content Fragment List",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/xfpage",
+    "excerpt": "",
+    "name": "xfpage",
+    "title": "Pacific Dental CMS Platform Experience Fragment",
+    "created": "2023-10-17 15:34:52",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/searchbox",
+    "excerpt": "Without Dropdown",
+    "name": "searchbox",
+    "title": "Search",
+    "created": "2023-10-17 15:34:53",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/faqs",
+    "excerpt": "Tabs",
+    "name": "faqs",
+    "title": "FAQ's",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/reviewsnearby",
+    "excerpt": "Google Business Profile Reviews",
+    "name": "reviewsnearby",
+    "title": "Reviews Nearby",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  },
+  {
+    "path": "/apps/pacific-dental/components/quizcard",
+    "excerpt": "Correct Answer",
+    "name": "quizcard",
+    "title": "Quiz Card",
+    "created": "2024-01-04 14:50:51",
+    "usageCount": 0
+  }
+]
