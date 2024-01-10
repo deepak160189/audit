@@ -366,7 +366,7 @@ Total Component Count: ${data.length}
 
       <h3 class="text-2xl font-bold mt-8 mb-4 dark:text-white">Top Used Components</h3>
 
-      <div class="relative overflow-x-auto shadow-md sm:rounded-lg max-w-xl">
+      <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
 
       <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400 	">
           <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
@@ -405,7 +405,7 @@ Total Component Count: ${data.length}
 </div>
 <h3 class="text-2xl font-bold mt-8 mb-4 dark:text-white">Least Used Components</h3>
 
-<div class="relative overflow-x-auto shadow-md sm:rounded-lg max-w-xl">
+<div class="relative overflow-x-auto shadow-md sm:rounded-lg">
 
 <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400 	">
 <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
